@@ -29,7 +29,7 @@ type_checkboxes = [],
 which = {};
 
 function showBikeMap() {
-	L.mapbox.accessToken = '{{MAPBOX KEY}}';
+	L.mapbox.accessToken = 'pk.eyJ1IjoiY29uZmx1ZW5jZWNpdHkiLCJhIjoiU05ETHk4VSJ9.8U46aM9pUowsCfgMsbidgg';
 	var layer = L.mapbox.tileLayer('confluencecity.kpmg98a4');
 	layer.on('ready', function() {
 		// the layer has been fully loaded now, and you can
@@ -45,10 +45,11 @@ function showBikeMap() {
 				return feature;
 			})
 			.addTo(bike_ped_map);
-		bikeFeatureLayer.loadURL('/data/2013_and_2014_bike_crashes_geo.json');
+		bikeFeatureLayer.loadURL('/wp-content/themes/maps/data/2013_and_2014_bike_crashes_geo.json?v=4');
 		bikeFeatureLayer.on('ready', function() {
 			which.bicycle = true;
 			controlFeatureLayer();
+			display_update();
 		});
 		pedFeatureLayer = L.mapbox.featureLayer()
 			.setFilter(function(feature) {
@@ -60,10 +61,11 @@ function showBikeMap() {
 				return feature;
 			})
 			.addTo(bike_ped_map);
-		pedFeatureLayer.loadURL('/data/2013_and_2014_pedestrian_crashes_geo.json');
+		pedFeatureLayer.loadURL('/wp-content/themes/maps/data/2013_and_2014_pedestrian_crashes_geo.json?v=4');
 		bikeFeatureLayer.on('ready', function() {
 			which.pedestrian = true;
 			controlFeatureLayer();
+			display_update();
 		});
 	});
 	layer.on('error', function(err) {
@@ -188,9 +190,6 @@ function display_update() {
 					'Crash Date: ' + layer.feature.properties.ACCIDENT_DATE + '<br \/>' +
 					'Injury Level: ' + accident_level[level] + '<br \/>' +
 					'Location: ' + layer.feature.properties.ON_LOCATION_STREET;
-				if(typeof(layer.feature.properties.AT_LOCATION_STREET)!='undefined') {
-					content += ' at '+layer.feature.properties.AT_LOCATION_STREET;
-				}
 				if(typeof(layer.feature.properties.AT_LOCATION_STREET)!='undefined') {
 					content += ' at '+layer.feature.properties.AT_LOCATION_STREET;
 				}
