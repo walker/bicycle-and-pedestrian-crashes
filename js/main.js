@@ -62,7 +62,7 @@ function showBikeMap() {
 			})
 			.addTo(bike_ped_map);
 		pedFeatureLayer.loadURL('/wp-content/themes/maps/data/2013_and_2014_pedestrian_crashes_geo.json?v=4');
-		bikeFeatureLayer.on('ready', function() {
+		pedFeatureLayer.on('ready', function() {
 			which.pedestrian = true;
 			controlFeatureLayer();
 			display_update();
