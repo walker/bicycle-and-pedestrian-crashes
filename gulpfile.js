@@ -1,7 +1,7 @@
 var gulp = require('gulp'),
     sass = require('gulp-ruby-sass'),
     csscmq = require('gulp-combine-media-queries'),
-    minifycss = require('gulp-minify-css'),
+    cleancss = require('gulp-clean-css'),
     concat = require('gulp-concat'),
     uglify = require('gulp-uglify'),
     rename = require('gulp-rename'),
