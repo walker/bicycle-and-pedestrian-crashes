@@ -45,7 +45,7 @@ function showBikeMap() {
 				return feature;
 			})
 			.addTo(bike_ped_map);
-		bikeFeatureLayer.loadURL('/wp-content/themes/maps/data/2013_and_2014_bike_crashes_geo.json?v=4');
+		bikeFeatureLayer.loadURL('data/2013_and_2014_bike_crashes_geo.json?v=5');
 		bikeFeatureLayer.on('ready', function() {
 			which.bicycle = true;
 			controlFeatureLayer();
@@ -61,7 +61,7 @@ function showBikeMap() {
 				return feature;
 			})
 			.addTo(bike_ped_map);
-		pedFeatureLayer.loadURL('/wp-content/themes/maps/data/2013_and_2014_pedestrian_crashes_geo.json?v=4');
+		pedFeatureLayer.loadURL('data/2013_and_2014_pedestrian_crashes_geo.json?v=5');
 		pedFeatureLayer.on('ready', function() {
 			which.pedestrian = true;
 			controlFeatureLayer();
