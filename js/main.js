@@ -83,7 +83,7 @@ function controlFeatureLayer() {
 			type_labels = ['Bicycle', 'Pedestrian'],
 			year_types = ['2013', '2014'],
 			year_labels = ['2013', '2014'];
-		
+
 		// Create a filter interface.
 		var type_header = filters.appendChild(document.createElement('h2'));
 		type_header.innerHTML = 'Types';
@@ -155,7 +155,7 @@ function type_display_update() {
 		which.bicycle = true;
 		bikeFeatureLayer.addTo(bike_ped_map);
 	}
-	
+
 	if(typeof(enabled.pedestrian)==='undefined' && typeof(which.pedestrian)!=='undefined') {
 		delete which.pedestrian;
 		bike_ped_map.removeLayer(pedFeatureLayer);
@@ -172,7 +172,7 @@ function display_update() {
 	for (var i = 0; i < checkboxes.length; i++) {
 		if (checkboxes[i].checked) enabled[checkboxes[i].id] = true;
 	}
-	
+
 	bike_ped_map.eachLayer(function(top_layer) {
 		if(typeof(top_layer._geojson)!=='undefined' && (typeof(top_layer._geojson.id)=='undefined' || top_layer._geojson.id!='confluencecity.kpmg98a4')) {
 			top_layer.setFilter(function(feature) {
@@ -185,7 +185,7 @@ function display_update() {
 				} else {
 					var level = layer.feature.properties.PERSONAL_INJ_LEVEL - 1;
 				}
-				var content = 
+				var content =
 					'<p>Crash Type: ' + layer.feature.properties.CRASH_SEGMENT + '<br \/>' +
 					'Crash Date: ' + layer.feature.properties.ACCIDENT_DATE + '<br \/>' +
 					'Injury Level: ' + accident_level[level] + '<br \/>' +
