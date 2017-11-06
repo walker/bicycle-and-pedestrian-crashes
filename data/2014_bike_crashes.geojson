@@ -1,0 +1,2219 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140016957,
+        "ACCIDENT_DATE": "2014/06/27",
+        "YEAR_OF_BIRTH": 1963,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "64",
+        "TRAVELWAY_ID": 255678,
+        "Log": 0.122,
+        "ON_LOCATION_STREET": "NOR 64",
+        "AT_LOCATION_STREET": "MASON RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.480459191261,
+          38.640007300781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140016490,
+        "ACCIDENT_DATE": "2014/06/25",
+        "YEAR_OF_BIRTH": 2001,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "TRAVELWAY_NAME": "47",
+        "TRAVELWAY_ID": 50,
+        "Log": 56.929,
+        "ON_LOCATION_STREET": "MO 47",
+        "AT_LOCATION_STREET": "8TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.002907734753,
+          38.550902172522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140010458,
+        "ACCIDENT_DATE": "2014/06/20",
+        "YEAR_OF_BIRTH": 1960,
+        "PERSONAL_INJ_LEVEL": 1,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "COOK AVE",
+        "TRAVELWAY_ID": 31600,
+        "Log": 0.682,
+        "ON_LOCATION_STREET": "COOK AVE",
+        "AT_LOCATION_STREET": "N SARAH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.239312981571,
+          38.649803530591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140016340,
+        "ACCIDENT_DATE": "2014/06/17",
+        "YEAR_OF_BIRTH": 1986,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "MCKNIGHT RD",
+        "TRAVELWAY_ID": 88367,
+        "Log": 1.977,
+        "ON_LOCATION_STREET": "MCKNIGHT RD",
+        "AT_LOCATION_STREET": "ELLSWORTH LN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.362320021016,
+          38.626146288902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140014751,
+        "ACCIDENT_DATE": "2014/06/14",
+        "YEAR_OF_BIRTH": 2007,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "SHANNON AVE",
+        "TRAVELWAY_ID": 112491,
+        "Log": 0.526,
+        "ON_LOCATION_STREET": "SHANNON AVE",
+        "AT_LOCATION_STREET": "SHARIDGE DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.255946862767,
+          38.730048438314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140015739,
+        "ACCIDENT_DATE": "2014/06/13",
+        "YEAR_OF_BIRTH": 2004,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "TRAVELWAY_NAME": "THIRD ST",
+        "TRAVELWAY_ID": 1021763,
+        "Log": 0.184,
+        "ON_LOCATION_STREET": "3RD ST",
+        "AT_LOCATION_STREET": "RAND ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.023261110621,
+          38.561272624251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140013625,
+        "ACCIDENT_DATE": "2014/06/01",
+        "YEAR_OF_BIRTH": 1995,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "67",
+        "TRAVELWAY_ID": 15,
+        "Log": 9.852,
+        "ON_LOCATION_STREET": "US 67",
+        "AT_LOCATION_STREET": "RT AC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.298948137151,
+          38.8092339315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034589,
+        "ACCIDENT_DATE": "2014/05/31",
+        "YEAR_OF_BIRTH": 1958,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "4TH ST",
+        "AT_LOCATION_STREET": "LOCUST ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3972928,
+          38.2774692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140013629,
+        "ACCIDENT_DATE": "2014/05/28",
+        "YEAR_OF_BIRTH": 1968,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "TRAVELWAY_ID": 29978,
+        "Log": 13.265,
+        "ON_LOCATION_STREET": "CLAYTON RD",
+        "AT_LOCATION_STREET": "PP DES PERES CHURCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.419959436309,
+          38.633115420856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140013629,
+        "ACCIDENT_DATE": "2014/05/28",
+        "YEAR_OF_BIRTH": 1969,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "TRAVELWAY_ID": 29978,
+        "Log": 13.265,
+        "ON_LOCATION_STREET": "CLAYTON RD",
+        "AT_LOCATION_STREET": "PP DES PERES CHURCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.419959436309,
+          38.633115420856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034383,
+        "ACCIDENT_DATE": "2014/05/28",
+        "YEAR_OF_BIRTH": 2006,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "ENRIGHT AVE",
+        "AT_LOCATION_STREET": "CLARENDON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2704693,
+          38.6534867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034363,
+        "ACCIDENT_DATE": "2014/05/28",
+        "YEAR_OF_BIRTH": 1981,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "ARSENAL ST",
+        "AT_LOCATION_STREET": "GRAND BLVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.242231,
+          38.6026997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034355,
+        "ACCIDENT_DATE": "2014/05/27",
+        "YEAR_OF_BIRTH": 1998,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "BACON ST",
+        "AT_LOCATION_STREET": "NORTH MARKET ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2228166,
+          38.6508077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140013612,
+        "ACCIDENT_DATE": "2014/01/24",
+        "YEAR_OF_BIRTH": 1959,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "CASS AVE",
+        "AT_LOCATION_STREET": "TUCKER BLVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2228166,
+          38.6508077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034904,
+        "ACCIDENT_DATE": "2014/05/23",
+        "YEAR_OF_BIRTH": 1982,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "GRAND BLVD",
+        "AT_LOCATION_STREET": "GRAVOIS RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2438353,
+          38.5924732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034897,
+        "ACCIDENT_DATE": "2014/05/23",
+        "YEAR_OF_BIRTH": 1995,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "SKINKER BLVD",
+        "AT_LOCATION_STREET": "PERSHING AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3006047,
+          38.649958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034427,
+        "ACCIDENT_DATE": "2014/05/15",
+        "YEAR_OF_BIRTH": 1993,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "CHOUTEAU AVE",
+        "AT_LOCATION_STREET": "GRAND AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2367687,
+          38.6259923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034058,
+        "ACCIDENT_DATE": "2014/05/12",
+        "YEAR_OF_BIRTH": 1988,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "TRAVELWAY_ID": 61769,
+        "Log": 1.135,
+        "ON_LOCATION_STREET": "EUCLID AVE",
+        "AT_LOCATION_STREET": "FOREST PARK AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26240604956,
+          38.638724534061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140011850,
+        "ACCIDENT_DATE": "2014/05/08",
+        "YEAR_OF_BIRTH": 1998,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "BIG BEND BLVD",
+        "TRAVELWAY_ID": 20887,
+        "Log": 13.47,
+        "ON_LOCATION_STREET": "BIG BEND BLVD",
+        "AT_LOCATION_STREET": "ARLINGTON DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.320544966277,
+          38.624786179897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034558,
+        "ACCIDENT_DATE": "2014/05/08",
+        "YEAR_OF_BIRTH": 1973,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "NATURAL BRIDGE AVE",
+        "AT_LOCATION_STREET": "KINGSHIGHWAY BLVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2519559,
+          38.6763987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140011212,
+        "ACCIDENT_DATE": "2014/05/06",
+        "YEAR_OF_BIRTH": 1985,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "DARST RD",
+        "TRAVELWAY_ID": 56114,
+        "Log": 0,
+        "ON_LOCATION_STREET": "DARST RD",
+        "AT_LOCATION_STREET": "FLORISSANT RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.305930011865,
+          38.746679073383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034462,
+        "ACCIDENT_DATE": "2014/05/06",
+        "YEAR_OF_BIRTH": 1996,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "ARSENAL ST",
+        "AT_LOCATION_STREET": "ARKANSAS AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2399695,
+          38.6024078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140033899,
+        "ACCIDENT_DATE": "2014/05/05",
+        "YEAR_OF_BIRTH": 1988,
+        "PERSONAL_INJ_LEVEL": 2,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "KINGSHIGHWAY BLVD",
+        "TRAVELWAY_ID": 79484,
+        "Log": 4.411,
+        "ON_LOCATION_STREET": "KINGSHIGHWAY BLVD",
+        "AT_LOCATION_STREET": "BARNES JEWISH PLAZA PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.266447112334,
+          38.635093656967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140033735,
+        "ACCIDENT_DATE": "2014/05/04",
+        "YEAR_OF_BIRTH": 2003,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "RIVERVIEW BLVD",
+        "AT_LOCATION_STREET": "JORDAN AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2300374,
+          38.7258909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140003639,
+        "ACCIDENT_DATE": "2014/02/12",
+        "YEAR_OF_BIRTH": 1993,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "EMMA AVE",
+        "TRAVELWAY_ID": 61326,
+        "Log": 0.379,
+        "ON_LOCATION_STREET": "EMMA AVE",
+        "AT_LOCATION_STREET": "JANET AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.264974115339,
+          38.710769576192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140033883,
+        "ACCIDENT_DATE": "2014/05/03",
+        "YEAR_OF_BIRTH": 1901,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "SKINKER BLVD",
+        "TRAVELWAY_ID": 113901,
+        "Log": 0.376,
+        "ON_LOCATION_STREET": "SKINKER BLVD",
+        "AT_LOCATION_STREET": "DELMAR BLVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.299681354146,
+          38.655456139245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140032893,
+        "ACCIDENT_DATE": "2014/04/28",
+        "YEAR_OF_BIRTH": 2004,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "MONTER DR",
+        "TRAVELWAY_ID": 91259,
+        "Log": 0.018,
+        "ON_LOCATION_STREET": "MONTER DR",
+        "AT_LOCATION_STREET": "MCKELVEY RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.422048687577,
+          38.753534748796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140028453,
+        "ACCIDENT_DATE": "2014/04/28",
+        "YEAR_OF_BIRTH": 1989,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "30",
+        "TRAVELWAY_ID": 6370,
+        "Log": 47.229,
+        "ON_LOCATION_STREET": "GRAVOIS RD",
+        "AT_LOCATION_STREET": "HAMPTON AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.294219545275,
+          38.564277180266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140036876,
+        "ACCIDENT_DATE": "2014/04/26",
+        "YEAR_OF_BIRTH": 1983,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "NORTHPORT HILL DR",
+        "TRAVELWAY_ID": 94015,
+        "Log": 0.311,
+        "ON_LOCATION_STREET": "PVT NORTHPORT HILL DR",
+        "AT_LOCATION_STREET": "WEST FLORISSANT AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28051833377,
+          38.776288963108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140025205,
+        "ACCIDENT_DATE": "2014/09/28",
+        "YEAR_OF_BIRTH": 1990,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "CONWAY RD",
+        "TRAVELWAY_ID": 31586,
+        "Log": 4.934,
+        "ON_LOCATION_STREET": "CONWAY RD",
+        "AT_LOCATION_STREET": "CONWAY LAKE DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.468403058914,
+          38.64815131024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140028424,
+        "ACCIDENT_DATE": "2014/04/26",
+        "YEAR_OF_BIRTH": 1995,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "LOUGHBOROUGH AVE",
+        "TRAVELWAY_ID": 84502,
+        "Log": 1.528,
+        "ON_LOCATION_STREET": "LOUGHBOROUGH AVE",
+        "AT_LOCATION_STREET": "MORGANFORD RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.277486741264,
+          38.566193554729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 3140011136,
+        "ACCIDENT_DATE": "2014/04/23",
+        "YEAR_OF_BIRTH": 1975,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "TRAVELWAY_NAME": "94",
+        "TRAVELWAY_ID": 7756,
+        "Log": 109.835,
+        "ON_LOCATION_STREET": "MO 94",
+        "AT_LOCATION_STREET": "BURNING TREE LN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.520543718923,
+          38.771721023716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140010216,
+        "ACCIDENT_DATE": "2014/04/20",
+        "YEAR_OF_BIRTH": 1966,
+        "PERSONAL_INJ_LEVEL": 2,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "WOODBINE AVE",
+        "TRAVELWAY_ID": 127544,
+        "Log": 0.517,
+        "ON_LOCATION_STREET": "WOODBINE",
+        "AT_LOCATION_STREET": "HEMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.415701542968,
+          38.57430876273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140035932,
+        "ACCIDENT_DATE": "2014/04/20",
+        "YEAR_OF_BIRTH": 1969,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "IS70W TO RTU",
+        "TRAVELWAY_ID": 6408,
+        "Log": 0.159,
+        "ON_LOCATION_STREET": "RP 6408",
+        "AT_LOCATION_STREET": "RT U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.285336875487,
+          38.711545570418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140025215,
+        "ACCIDENT_DATE": "2014/09/18",
+        "YEAR_OF_BIRTH": 2002,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "HUMES LN",
+        "TRAVELWAY_ID": 75034,
+        "Log": 0,
+        "ON_LOCATION_STREET": "HUMES LN",
+        "AT_LOCATION_STREET": "CRD SHACKELFORD RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.342863008414,
+          38.818571697709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140028823,
+        "ACCIDENT_DATE": "2014/04/20",
+        "YEAR_OF_BIRTH": 2002,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "ELMBANK AVE",
+        "AT_LOCATION_STREET": "NEWSTEAD AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2385793,
+          38.6668095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140029262,
+        "ACCIDENT_DATE": "2014/04/19",
+        "YEAR_OF_BIRTH": 1960,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "SKINKER BLVD",
+        "TRAVELWAY_ID": 113901,
+        "Log": 1.893,
+        "ON_LOCATION_STREET": "SKINKER BLVD",
+        "AT_LOCATION_STREET": "WELLS DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.304189322487,
+          38.633769223155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140009669,
+        "ACCIDENT_DATE": "2014/04/18",
+        "YEAR_OF_BIRTH": 1983,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "PVT LAKE FOREST",
+        "AT_LOCATION_STREET": "HANLEY RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3353848,
+          38.6373101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140035892,
+        "ACCIDENT_DATE": "2014/04/18",
+        "YEAR_OF_BIRTH": 1989,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "50",
+        "TRAVELWAY_ID": 3508,
+        "Log": 3.523,
+        "ON_LOCATION_STREET": "US 50",
+        "AT_LOCATION_STREET": "CRD UNION RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.331999905127,
+          38.509573822616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140029809,
+        "ACCIDENT_DATE": "2014/04/18",
+        "YEAR_OF_BIRTH": 2006,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "DESOTO AVE",
+        "AT_LOCATION_STREET": "ALY 2036 DESOTO AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.212439,
+          38.673091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140030126,
+        "ACCIDENT_DATE": "2014/04/17",
+        "YEAR_OF_BIRTH": 2005,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "BOONE HILLS DR",
+        "AT_LOCATION_STREET": "PP 70 BOONE HILLS DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.243096",
+          "38.653095"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140025438,
+        "ACCIDENT_DATE": "2014/09/26",
+        "YEAR_OF_BIRTH": 1992,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "FORSYTH BLVD",
+        "TRAVELWAY_ID": 65121,
+        "Log": 2.046,
+        "ON_LOCATION_STREET": "FORSYTH BLVD",
+        "AT_LOCATION_STREET": "PVT OLYMPIAN WAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.312550336021,
+          38.647089644238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140035859,
+        "ACCIDENT_DATE": "2014/04/16",
+        "YEAR_OF_BIRTH": 2006,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "MERRICK DR",
+        "TRAVELWAY_ID": 89518,
+        "Log": 0.484,
+        "ON_LOCATION_STREET": "CRD MERRICK DR",
+        "AT_LOCATION_STREET": "CRD WESTPORT DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.452570190754,
+          38.68740543843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140028681,
+        "ACCIDENT_DATE": "2014/04/16",
+        "YEAR_OF_BIRTH": 1948,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "JEFFERSON AVE",
+        "AT_LOCATION_STREET": "LOCUT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.336037",
+          "38.690922"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140029434,
+        "ACCIDENT_DATE": "2014/04/13",
+        "YEAR_OF_BIRTH": 1996,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "CALIFORNIA AVE",
+        "TRAVELWAY_ID": 25184,
+        "Log": 1.995,
+        "ON_LOCATION_STREET": "CALIFORNIA AVE",
+        "AT_LOCATION_STREET": "KEOKUK ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.231806627229,
+          38.585188116182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140033015,
+        "ACCIDENT_DATE": "2014/04/11",
+        "YEAR_OF_BIRTH": 1988,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "LOCKWOOD AVE",
+        "TRAVELWAY_ID": 251382,
+        "Log": 0.218,
+        "ON_LOCATION_STREET": "CRD LOCKWOOD BLVD",
+        "AT_LOCATION_STREET": "PARKLAND AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.381251395116,
+          38.583078379604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140034029,
+        "ACCIDENT_DATE": "2014/04/09",
+        "YEAR_OF_BIRTH": 1959,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "44",
+        "TRAVELWAY_ID": 255751,
+        "Log": 2.043,
+        "ON_LOCATION_STREET": "SOUTH HWY DR",
+        "AT_LOCATION_STREET": "LARKIN WILLIAMS RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.458998517244,
+          38.542656305041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140030924,
+        "ACCIDENT_DATE": "2014/04/09",
+        "YEAR_OF_BIRTH": 1965,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "PP PARKING LOT AT 15301 MO 100",
+        "AT_LOCATION_STREET": "MO 100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.685638",
+          "38.578758"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140029236,
+        "ACCIDENT_DATE": "2014/04/07",
+        "YEAR_OF_BIRTH": 1965,
+        "PERSONAL_INJ_LEVEL": 2,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "IS44W TO VANDEVENTER AVE",
+        "TRAVELWAY_ID": 228429,
+        "Log": 0.157,
+        "ON_LOCATION_STREET": "RP 228429",
+        "AT_LOCATION_STREET": "VANDEVENTER AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.259242522914,
+          38.619140211277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140029023,
+        "ACCIDENT_DATE": "2014/04/07",
+        "YEAR_OF_BIRTH": 2000,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "BROADWAY",
+        "AT_LOCATION_STREET": "TESSON ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.2612",
+          "38.54456"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140029744,
+        "ACCIDENT_DATE": "2014/04/01",
+        "YEAR_OF_BIRTH": 1994,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "TRAVELWAY_ID": 61769,
+        "Log": 0.718,
+        "ON_LOCATION_STREET": "EUCLID AVE",
+        "AT_LOCATION_STREET": "MARYLAND AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.261510307278,
+          38.644739028748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140023634,
+        "ACCIDENT_DATE": "2014/03/29",
+        "YEAR_OF_BIRTH": 1952,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "TRAVELWAY_ID": 68731,
+        "Log": 5.819,
+        "ON_LOCATION_STREET": "GRAND BLVD",
+        "AT_LOCATION_STREET": "MERAMEC ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.244204879395,
+          38.580955646482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140034363,
+        "ACCIDENT_DATE": "2014/03/25",
+        "YEAR_OF_BIRTH": 2001,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "367",
+        "TRAVELWAY_ID": 6160,
+        "Log": 5.146,
+        "ON_LOCATION_STREET": "LEWIS & CLARK BLVD",
+        "AT_LOCATION_STREET": "BERWYN DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.239763825418,
+          38.746893885538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140006952,
+        "ACCIDENT_DATE": "2014/03/15",
+        "YEAR_OF_BIRTH": 1990,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "TRAVELWAY_ID": 29978,
+        "Log": 14.032,
+        "ON_LOCATION_STREET": "CLAYTON RD",
+        "AT_LOCATION_STREET": "LINDBERGH BLVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.405783703904,
+          38.632989448556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140006500,
+        "ACCIDENT_DATE": "2014/03/17",
+        "YEAR_OF_BIRTH": 1996,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "67",
+        "TRAVELWAY_ID": 15,
+        "Log": 10.222,
+        "ON_LOCATION_STREET": "US 67",
+        "AT_LOCATION_STREET": "TROTTER WAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.304575189477,
+          38.80615001477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140024216,
+        "ACCIDENT_DATE": "2014/03/21",
+        "YEAR_OF_BIRTH": 1991,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "FOREST PARK AVE",
+        "AT_LOCATION_STREET": "SARAH BLVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.24717",
+          "38.63575"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140016873,
+        "ACCIDENT_DATE": "2014/07/01",
+        "YEAR_OF_BIRTH": 1957,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "EDDIE AND PARK RD",
+        "TRAVELWAY_ID": 59560,
+        "Log": 1.237,
+        "ON_LOCATION_STREET": "EDDIE AND PARK RD",
+        "AT_LOCATION_STREET": "WEMBLEY WOODS DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.38317024843,
+          38.544213578533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140026002,
+        "ACCIDENT_DATE": "2014/03/21",
+        "YEAR_OF_BIRTH": 1990,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "AC",
+        "TRAVELWAY_ID": 6145,
+        "Log": 6.59,
+        "ON_LOCATION_STREET": "RT AC",
+        "AT_LOCATION_STREET": "CRD VORHOF DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.258205619943,
+          38.762359822372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140027689,
+        "ACCIDENT_DATE": "2014/03/21",
+        "YEAR_OF_BIRTH": 1990,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "FLORA AVE",
+        "AT_LOCATION_STREET": "BIG BEND BLVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.32373",
+          "38.609451"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140024078,
+        "ACCIDENT_DATE": "2014/03/25",
+        "YEAR_OF_BIRTH": 1988,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "UTAH ST",
+        "AT_LOCATION_STREET": "GRAND ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.24308",
+          "38.59734"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140014510,
+        "ACCIDENT_DATE": "2014/01/04",
+        "YEAR_OF_BIRTH": 1994,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "100",
+        "TRAVELWAY_ID": 6368,
+        "Log": 102.827,
+        "ON_LOCATION_STREET": "MO 100",
+        "AT_LOCATION_STREET": "HENRY AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.516011290561,
+          38.593090731069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140012366,
+        "ACCIDENT_DATE": "2014/01/13",
+        "YEAR_OF_BIRTH": 2005,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "KOELN AVE",
+        "TRAVELWAY_ID": 79892,
+        "Log": 0.788,
+        "ON_LOCATION_STREET": "KOELN AVE",
+        "AT_LOCATION_STREET": "MICHIGAN AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25998572791,
+          38.550075272774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140019135,
+        "ACCIDENT_DATE": "2014/02/13",
+        "YEAR_OF_BIRTH": 1986,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "LINDELL BLVD",
+        "TRAVELWAY_ID": 83167,
+        "Log": 2.353,
+        "ON_LOCATION_STREET": "LINDELL BLVD",
+        "AT_LOCATION_STREET": "TAYLOR AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.258031005418,
+          38.642494256673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140017536,
+        "ACCIDENT_DATE": "2014/02/24",
+        "YEAR_OF_BIRTH": 1971,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "LAFAYETTE AVE",
+        "TRAVELWAY_ID": 80335,
+        "Log": 2.7,
+        "ON_LOCATION_STREET": "LAFAYETTE AVE",
+        "AT_LOCATION_STREET": "TRUMAN PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.209906582623,
+          38.613488331303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140011094,
+        "ACCIDENT_DATE": "2014/08/06",
+        "YEAR_OF_BIRTH": 1970,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "TUCKER BLVD",
+        "TRAVELWAY_ID": 8792,
+        "Log": 0.61,
+        "ON_LOCATION_STREET": "TUCKER BLVD",
+        "AT_LOCATION_STREET": "LINDEN ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.196313531323,
+          38.632775428414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140020254,
+        "ACCIDENT_DATE": "2014/07/23",
+        "YEAR_OF_BIRTH": 1996,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "AIRPORT RD",
+        "TRAVELWAY_ID": 15585,
+        "Log": 1.055,
+        "ON_LOCATION_STREET": "AIRPORT",
+        "AT_LOCATION_STREET": "TYNDALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.327670575321,
+          38.74990472043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140024050,
+        "ACCIDENT_DATE": "2014/09/22",
+        "YEAR_OF_BIRTH": 1951,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "MANRESA LN",
+        "TRAVELWAY_ID": 86436,
+        "Log": 0.621,
+        "ON_LOCATION_STREET": "MANRESA LN",
+        "AT_LOCATION_STREET": "US 67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.34590447248,
+          38.790400456649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140026024,
+        "ACCIDENT_DATE": "2014/09/25",
+        "YEAR_OF_BIRTH": 1985,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "PVT BOEING GATE 64",
+        "AT_LOCATION_STREET": "RT TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.243096",
+          "38.653095"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140025047,
+        "ACCIDENT_DATE": "2014/09/28",
+        "YEAR_OF_BIRTH": 1983,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "CONWAY RD",
+        "TRAVELWAY_ID": 31586,
+        "Log": 2.611,
+        "ON_LOCATION_STREET": "CONWAY RD",
+        "AT_LOCATION_STREET": "S WOODS MILL RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.510656792648,
+          38.649009846104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140023945,
+        "ACCIDENT_DATE": "2014/03/13",
+        "YEAR_OF_BIRTH": 1941,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "NEWSTEAD AVE",
+        "TRAVELWAY_ID": 92994,
+        "Log": 1.005,
+        "ON_LOCATION_STREET": "NEWSTEAD AVE",
+        "AT_LOCATION_STREET": "NATURAL BRIDGE AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.236467567685,
+          38.669775235169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140031413,
+        "ACCIDENT_DATE": "2014/11/08",
+        "YEAR_OF_BIRTH": 2006,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "CORTEZ",
+        "TRAVELWAY_ID": 31979,
+        "Log": 0,
+        "ON_LOCATION_STREET": "CORTEZ DR",
+        "AT_LOCATION_STREET": "LINDSAY LN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.348009500621,
+          38.807876549295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 3140018781,
+        "ACCIDENT_DATE": "2014/07/27",
+        "YEAR_OF_BIRTH": 1970,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "JEFFERSON",
+        "TRAVELWAY_NAME": "GRAVOIS RD",
+        "TRAVELWAY_ID": 69081,
+        "Log": 0.21,
+        "ON_LOCATION_STREET": "CRD Gravois",
+        "AT_LOCATION_STREET": "CRD RICHARZ DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.484349548814,
+          38.49207789695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140002800,
+        "ACCIDENT_DATE": "2014/01/26",
+        "YEAR_OF_BIRTH": 1984,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "BIG BEND BLVD",
+        "TRAVELWAY_ID": 20887,
+        "Log": 8.98,
+        "ON_LOCATION_STREET": "BIG BEND BLVD",
+        "AT_LOCATION_STREET": "GLENDALE RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.366553658694,
+          38.577145946975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140018025,
+        "ACCIDENT_DATE": "2014/07/19",
+        "YEAR_OF_BIRTH": 1972,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "TRAVELWAY_ID": 29978,
+        "Log": 15.897,
+        "ON_LOCATION_STREET": "CLAYTON RD",
+        "AT_LOCATION_STREET": "CELLA RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.373834359066,
+          38.641044834647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140031198,
+        "ACCIDENT_DATE": "2014/11/29",
+        "YEAR_OF_BIRTH": 1949,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "TRAVELWAY_NAME": "ELM ST",
+        "TRAVELWAY_ID": 1024943,
+        "Log": 0.351,
+        "ON_LOCATION_STREET": "ELM ST",
+        "AT_LOCATION_STREET": "5TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.016093682495,
+          38.557209584375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140027242,
+        "ACCIDENT_DATE": "2014/10/20",
+        "YEAR_OF_BIRTH": 2004,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "ST ANTHONY LN",
+        "TRAVELWAY_ID": 115751,
+        "Log": 1.318,
+        "ON_LOCATION_STREET": "ST ANTHONY LN",
+        "AT_LOCATION_STREET": "ST EDWARD LN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.312019248018,
+          38.784061575281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140019092,
+        "ACCIDENT_DATE": "2014/02/23",
+        "YEAR_OF_BIRTH": 1957,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "TRAVELWAY_NAME": "64",
+        "TRAVELWAY_ID": 279320,
+        "Log": 5.286,
+        "ON_LOCATION_STREET": "TECHNOLOGY DR",
+        "AT_LOCATION_STREET": "WELDON SPRINGS RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.704079337147,
+          38.717417691253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140019511,
+        "ACCIDENT_DATE": "2014/02/21",
+        "YEAR_OF_BIRTH": 1975,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "180",
+        "TRAVELWAY_ID": 6157,
+        "Log": 6.948,
+        "ON_LOCATION_STREET": "CRD ST CHARLES ROCK RD",
+        "AT_LOCATION_STREET": "CRD NORTH & SOUTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.331557239814,
+          38.700668332941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140023256,
+        "ACCIDENT_DATE": "2014/09/15",
+        "YEAR_OF_BIRTH": 1990,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "HOYT DR",
+        "TRAVELWAY_ID": 74882,
+        "Log": 0.235,
+        "ON_LOCATION_STREET": "PVT HOYT DR",
+        "AT_LOCATION_STREET": "FORSYTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.304269028348,
+          38.646310369356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140027637,
+        "ACCIDENT_DATE": "2014/10/25",
+        "YEAR_OF_BIRTH": 1976,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "BELLEVUE AVE",
+        "TRAVELWAY_ID": 20106,
+        "Log": 0.14,
+        "ON_LOCATION_STREET": "BELLEVUE AVE",
+        "AT_LOCATION_STREET": "CLAYTON RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.311888062281,
+          38.634110490762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140017470,
+        "ACCIDENT_DATE": "2014/02/28",
+        "YEAR_OF_BIRTH": 1990,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "ARSENAL AVE",
+        "TRAVELWAY_ID": 17408,
+        "Log": 3.987,
+        "ON_LOCATION_STREET": "ARSENAL ST",
+        "AT_LOCATION_STREET": "SAINT ELIZABETH AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.238769663496,
+          38.6022735127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140024056,
+        "ACCIDENT_DATE": "2014/09/14",
+        "YEAR_OF_BIRTH": 2003,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "TIMBERBROOK DR",
+        "TRAVELWAY_ID": 122294,
+        "Log": 0.441,
+        "ON_LOCATION_STREET": "TIMBERBROOK",
+        "AT_LOCATION_STREET": "PVT OAKTIMBER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.443995875366,
+          38.561608902528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 3140018759,
+        "ACCIDENT_DATE": "2014/07/25",
+        "YEAR_OF_BIRTH": 1994,
+        "PERSONAL_INJ_LEVEL": 2,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "JEFFERSON",
+        "TRAVELWAY_NAME": "ROMAINE CREEK RD",
+        "TRAVELWAY_ID": 108795,
+        "Log": 2.17,
+        "ON_LOCATION_STREET": "CRD Romaine Creek RD",
+        "AT_LOCATION_STREET": "CRD STILLWATER WOODS DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.460401212444,
+          38.460849730139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140018326,
+        "ACCIDENT_DATE": "2014/02/21",
+        "YEAR_OF_BIRTH": 1989,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "VANDEVENTER AVE",
+        "TRAVELWAY_ID": 124438,
+        "Log": 1.984,
+        "ON_LOCATION_STREET": "VANDEVENTER AVE",
+        "AT_LOCATION_STREET": "LINDELL BLVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.240888970421,
+          38.63890148836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140022753,
+        "ACCIDENT_DATE": "2014/08/27",
+        "YEAR_OF_BIRTH": 1994,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "WALLACE CIR",
+        "TRAVELWAY_ID": 249699,
+        "Log": 0,
+        "ON_LOCATION_STREET": "WALLACE DR",
+        "AT_LOCATION_STREET": "US 40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.311981445259,
+          38.647049140977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140020430,
+        "ACCIDENT_DATE": "2014/08/07",
+        "YEAR_OF_BIRTH": 1995,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "LOCKWOOD AVE",
+        "TRAVELWAY_ID": 58981,
+        "Log": 1.266,
+        "ON_LOCATION_STREET": "LOCKWOOD AVE",
+        "AT_LOCATION_STREET": "ALLEN AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.361226645918,
+          38.593220773973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140025205,
+        "ACCIDENT_DATE": "2014/09/28",
+        "YEAR_OF_BIRTH": 1996,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "CONWAY RD",
+        "TRAVELWAY_ID": 31586,
+        "Log": 4.934,
+        "ON_LOCATION_STREET": "CONWAY RD",
+        "AT_LOCATION_STREET": "CONWAY LAKE DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.468403058914,
+          38.64815131024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140012377,
+        "ACCIDENT_DATE": "2014/01/15",
+        "YEAR_OF_BIRTH": 1992,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": null,
+        "TRAVELWAY_ID": 0,
+        "Log": 0,
+        "ON_LOCATION_STREET": "MARKET ST",
+        "AT_LOCATION_STREET": "8TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1933651,
+          38.6262275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140025457,
+        "ACCIDENT_DATE": "2014/10/05",
+        "YEAR_OF_BIRTH": 1935,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "FIFTH PLAZA",
+        "TRAVELWAY_ID": 100687,
+        "Log": 0.149,
+        "ON_LOCATION_STREET": "FIFTH PLAZA",
+        "AT_LOCATION_STREET": "GRANTS PKWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.330241662067,
+          38.818000542297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140019856,
+        "ACCIDENT_DATE": "2014/07/31",
+        "YEAR_OF_BIRTH": 1954,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "FAIRVIEW AVE",
+        "TRAVELWAY_ID": 62298,
+        "Log": 0.222,
+        "ON_LOCATION_STREET": "FAIRVIEW AVE",
+        "AT_LOCATION_STREET": "CORNELIA AVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.345363943564,
+          38.599985803937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140019479,
+        "ACCIDENT_DATE": "2014/08/01",
+        "YEAR_OF_BIRTH": 1955,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "LILAC DR",
+        "TRAVELWAY_ID": 82848,
+        "Log": 0.594,
+        "ON_LOCATION_STREET": "LILAC",
+        "AT_LOCATION_STREET": "CHAMBERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.213669165832,
+          38.748385027716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140019092,
+        "ACCIDENT_DATE": "2014/02/23",
+        "YEAR_OF_BIRTH": 1967,
+        "PERSONAL_INJ_LEVEL": 5,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "TRAVELWAY_NAME": "64",
+        "TRAVELWAY_ID": 279320,
+        "Log": 5.286,
+        "ON_LOCATION_STREET": "TECHNOLOGY DR",
+        "AT_LOCATION_STREET": "WELDON SPRINGS RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.704079337147,
+          38.717417691253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 2140028359,
+        "ACCIDENT_DATE": "2014/11/01",
+        "YEAR_OF_BIRTH": 2006,
+        "PERSONAL_INJ_LEVEL": 4,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "61",
+        "TRAVELWAY_ID": 11,
+        "Log": 168.247,
+        "ON_LOCATION_STREET": "US 61",
+        "AT_LOCATION_STREET": "JEFFERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.406345910957,
+          38.582290256125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 3140003645,
+        "ACCIDENT_DATE": "2014/01/12",
+        "YEAR_OF_BIRTH": 1962,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "TRAVELWAY_NAME": "GRAFTON FERRY RD",
+        "TRAVELWAY_ID": 68542,
+        "Log": 2.767,
+        "ON_LOCATION_STREET": "CRD GRAFTON FERRY RD",
+        "AT_LOCATION_STREET": "CRD PLEASANT UNION SCHOOL RD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.435068603317,
+          38.920665652712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140018185,
+        "ACCIDENT_DATE": "2014/02/19",
+        "YEAR_OF_BIRTH": 1959,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "TRAVELWAY_NAME": "270",
+        "TRAVELWAY_ID": 255657,
+        "Log": 5.401,
+        "ON_LOCATION_STREET": "NOR 270",
+        "AT_LOCATION_STREET": "CRD OLD HALLS FERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26083411173,
+          38.771287379233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HP_ACC_IMAGE_NO": 140023394,
+        "ACCIDENT_DATE": "2014/03/15",
+        "YEAR_OF_BIRTH": 1958,
+        "PERSONAL_INJ_LEVEL": 3,
+        "HP_PERSON_INVL_CD": 4,
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "TRAVELWAY_NAME": "JEFFERSON AVE",
+        "TRAVELWAY_ID": 76946,
+        "Log": 1.751,
+        "ON_LOCATION_STREET": "JEFFERSON AVE",
+        "AT_LOCATION_STREET": "LOCUST ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.213743764591,
+          38.63412898306
+        ]
+      }
+    }
+  ]
+}

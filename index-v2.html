@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>St. Louis Bicycle and Pedestrian Crashes</title>
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!--
+        <meta name="msapplication-TileImage" content="/images/ms-tile.png">
+        <meta name="msapplication-TileColor" content="#ef0303">
+        <link rel="shortcut icon" sizes="196x196" href="/images/touch-android-highres.png">
+        <link rel="shortcut icon" sizes="128x128" href="/images/touch-android.png">
+        <link rel="apple-touch-icon" href="/images/touch-ios-iphone.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/images/touch-ios-ipad.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/images/touch-ios-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/images/touch-ios-ipad-retina.png">
+        <link rel="shortcut icon" href="/favicon.ico">
+ -->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+        <script>window.jQuery || document.write("<script src='bower_components/jquery/dist/jquery.min.js'>\x3C/script>")</script>
+        <link href='style.css' rel='stylesheet' />
+        <script src='https://api.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.js'></script>
+        <link href='https://api.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.css' rel='stylesheet' />
+        <!-- <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+        <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+        <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' /> -->
+    </head>
+    <body>
+        <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+        <nav id='filters' class='filter-ui'></nav>
+
+        <div class="cartodb-legend-stack" style="display: block;"><div class="cartodb-legend choropleth" style="display: block;">
+        <div class="legend-title">Bicycle Crashes</div>
+            <ul>
+                <li class="min">Fatal</li>
+                <li class="max">None/Unknown</li>
+                <li class="graph count_441">
+                    <div class="colors">
+                        <div class="quartile" style="background-color:#B10026"></div>
+                        <div class="quartile" style="background-color:#E31A1C"></div>
+                        <div class="quartile" style="background-color:#FD8D3C"></div>
+                        <div class="quartile" style="background-color:#FEB24C"></div>
+                        <div class="quartile" style="background-color:#FED976"></div>
+                        <div class="quartile" style="background-color:#FFFFB2"></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="cartodb-legend choropleth" style="display: block;">
+            <div class="legend-title">Pedestrian Crashes</div>
+                <ul>
+                    <li class="min">Fatal</li>
+                    <li class="max">None/Unknown</li>
+                    <li class="graph count_441">
+                        <div class="colors">
+                            <div class="quartile" style="background-color:#614051"></div>
+                            <div class="quartile" style="background-color:#872657"></div>
+                            <div class="quartile" style="background-color:#FF007F"></div>
+                            <div class="quartile" style="background-color:#CF71AF"></div>
+                            <div class="quartile" style="background-color:#F49AC2"></div>
+                            <div class="quartile" style="background-color:#FFF0F5"></div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="map"></div>
+
+        <!-- <script src="js/main-v2.js"></script> -->
+        <script>
+        mapboxgl.accessToken = 'pk.eyJ1Ijoid2xraCIsImEiOiJNSG9hVXN3In0.OXn2ws2BN8oBEpLrzZ4hwg';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v9'
+        });
+        map.on('load', function () {
+        map.addSource("points", {
+            bike_ped_map = map.addSource('bike_ped_map', layer.getTileJSON());
+            bikeFeatureLayer = L.mapbox.featureLayer()
+              .setFilter(function(feature) {
+                feature.properties['marker-color'] = bike_colors[levels[feature.properties.PERSONAL_INJ_LEVEL]];
+                feature.properties['marker-size'] = 'small';
+                feature.properties['marker-type'] = 'point';
+                feature.properties.CRASH_SEGMENT = 'Bicycle';
+                feature.properties.YEAR = feature.properties.ACCIDENT_DATE.substring(0, 4);
+                return feature;
+              })
+              .addTo(bike_ped_map);
+            bikeFeatureLayer.loadURL('data/2013_and_2014_bike_crashes_geo.json?v=5');
+            bikeFeatureLayer.on('ready', function() {
+              which.bicycle = true;
+              controlFeatureLayer();
+              display_update();
+            });
+            pedFeatureLayer = L.mapbox.featureLayer()
+              .setFilter(function(feature) {
+                feature.properties['marker-color'] = ped_colors[levels[feature.properties.PERSONAL_INJ_LEVEL]];
+                feature.properties['marker-size'] = 'small';
+                feature.properties['marker-type'] = 'point';
+                feature.properties.CRASH_SEGMENT = 'Pedestrian';
+                feature.properties.YEAR = feature.properties.ACCIDENT_DATE.substring(0, 4);
+                return feature;
+              })
+              .addTo(bike_ped_map);
+            pedFeatureLayer.loadURL('data/2013_and_2014_pedestrian_crashes_geo.json?v=5');
+            pedFeatureLayer.on('ready', function() {
+              which.pedestrian = true;
+              controlFeatureLayer();
+              display_update();
+            });
+        });
+    </script>
+    </body>
+</html>
