@@ -1,0 +1,6305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27511111,
+          38.66441667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160010289",
+        "ACCIDENT_DATE": "2016-03-28",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.307",
+        "TRAVELWAY_ID": "1007285",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BELT AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "FATAL",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "1",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383951.9",
+        "GPS_LONGITUDE": "901630.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26252778,
+          38.63802778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160010391",
+        "ACCIDENT_DATE": "2016-05-24",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.174",
+        "TRAVELWAY_ID": "61769",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383816.9",
+        "GPS_LONGITUDE": "901545.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29644444,
+          38.57097222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160011038",
+        "ACCIDENT_DATE": "2016-01-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.305",
+        "TRAVELWAY_ID": "119666",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "SUNSHINE DR",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383415.5",
+        "GPS_LONGITUDE": "901747.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3005,
+          38.65083333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160011556",
+        "ACCIDENT_DATE": "2016-01-16",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.688",
+        "TRAVELWAY_ID": "113901",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "SKINKER BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383903",
+        "GPS_LONGITUDE": "901801.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27702778,
+          38.56591667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160011693",
+        "ACCIDENT_DATE": "2016-01-14",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "U",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.547",
+        "TRAVELWAY_ID": "84502",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LOUGHBOROUGH AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383357.3",
+        "GPS_LONGITUDE": "901637.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19725,
+          38.74686111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160011893",
+        "ACCIDENT_DATE": "2016-01-28",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.668",
+        "TRAVELWAY_ID": "256012",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "H",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "RT",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384448.7",
+        "GPS_LONGITUDE": "901150.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24130556,
+          38.606
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160012023",
+        "ACCIDENT_DATE": "2016-01-28",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.073",
+        "TRAVELWAY_ID": "68731",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383621.6",
+        "GPS_LONGITUDE": "901428.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23127778,
+          38.64786111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160012277",
+        "ACCIDENT_DATE": "2016-01-30",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "12.981",
+        "TRAVELWAY_ID": "6131",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "D",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "RT",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383852.3",
+        "GPS_LONGITUDE": "901352.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32377778,
+          38.609
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160014858",
+        "ACCIDENT_DATE": "2016-01-30",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.025",
+        "TRAVELWAY_ID": "20887",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "BIG BEND BLVD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383632.4",
+        "GPS_LONGITUDE": "901925.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26830556,
+          38.60902778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160017849",
+        "ACCIDENT_DATE": "2016-02-21",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "6.246",
+        "TRAVELWAY_ID": "79484",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "KINGSHIGHWAY BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383632.5",
+        "GPS_LONGITUDE": "901605.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24094444,
+          38.63888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160018045",
+        "ACCIDENT_DATE": "2016-02-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.984",
+        "TRAVELWAY_ID": "124438",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "VANDEVENTER AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383820",
+        "GPS_LONGITUDE": "901427.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23402778,
+          38.60744444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160018103",
+        "ACCIDENT_DATE": "2016-02-21",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.596",
+        "TRAVELWAY_ID": "31332",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "COMPTON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383626.8",
+        "GPS_LONGITUDE": "901402.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21580556,
+          38.59908333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160018719",
+        "ACCIDENT_DATE": "2016-02-20",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.456",
+        "TRAVELWAY_ID": "99650",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "PESTALOZZI ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383556.7",
+        "GPS_LONGITUDE": "901256.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23827778,
+          38.62083333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160018770",
+        "ACCIDENT_DATE": "2016-02-19",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0",
+        "TRAVELWAY_ID": "97783",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "PARK AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383715",
+        "GPS_LONGITUDE": "901417.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22972222,
+          38.62394444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160024271",
+        "ACCIDENT_DATE": "2016-03-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.402",
+        "TRAVELWAY_ID": "31332",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "COMPTON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383726.2",
+        "GPS_LONGITUDE": "901347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.251,
+          38.56691667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160024286",
+        "ACCIDENT_DATE": "2016-03-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.83",
+        "TRAVELWAY_ID": "139557",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "ALASKA AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383400.9",
+        "GPS_LONGITUDE": "901503.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23669444,
+          38.62602778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160024390",
+        "ACCIDENT_DATE": "2016-03-29",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "118.627",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383733.7",
+        "GPS_LONGITUDE": "901412.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23669444,
+          38.62602778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160024398",
+        "ACCIDENT_DATE": "2016-03-28",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "118.627",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383733.7",
+        "GPS_LONGITUDE": "901412.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26277778,
+          38.65525
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160024489",
+        "ACCIDENT_DATE": "2016-03-05",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.98",
+        "TRAVELWAY_ID": "79484",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "KINGSHIGHWAY BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383918.9",
+        "GPS_LONGITUDE": "901546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25925,
+          38.63855556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160024552",
+        "ACCIDENT_DATE": "2016-03-25",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.443",
+        "TRAVELWAY_ID": "120520",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "TAYLOR AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383818.8",
+        "GPS_LONGITUDE": "901533.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23647222,
+          38.65277778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160024779",
+        "ACCIDENT_DATE": "2016-03-26",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "13.072",
+        "TRAVELWAY_ID": "6157",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "180",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383910",
+        "GPS_LONGITUDE": "901411.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22475,
+          38.59536111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160025084",
+        "ACCIDENT_DATE": "2016-03-14",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.538",
+        "TRAVELWAY_ID": "76946",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "JEFFERSON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383543.3",
+        "GPS_LONGITUDE": "901329.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25319444,
+          38.58502778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160025623",
+        "ACCIDENT_DATE": "2016-03-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.702",
+        "TRAVELWAY_ID": "89438",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MERAMEC ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383506.1",
+        "GPS_LONGITUDE": "901511.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.52833333,
+          38.74477778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160027204",
+        "ACCIDENT_DATE": "2016-03-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.132",
+        "TRAVELWAY_ID": "279575",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ARENA PKWY",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CRD",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384441.2",
+        "GPS_LONGITUDE": "903142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.63147222,
+          38.72166667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160027851",
+        "ACCIDENT_DATE": "2016-03-31",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.372",
+        "TRAVELWAY_ID": "210082",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MALINMOR DR",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384318",
+        "GPS_LONGITUDE": "903753.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22013889,
+          38.67488889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160030189",
+        "ACCIDENT_DATE": "2016-04-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.165",
+        "TRAVELWAY_ID": "15383",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ADELAIDE AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384029.6",
+        "GPS_LONGITUDE": "901312.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.33493333,
+          38.51083333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160030396",
+        "ACCIDENT_DATE": "2016-03-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "258.161",
+        "TRAVELWAY_ID": "3507",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "50",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "US",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383039",
+        "GPS_LONGITUDE": "90205.76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26611111,
+          38.58405556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160031046",
+        "ACCIDENT_DATE": "2016-04-30",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.507",
+        "TRAVELWAY_ID": "91579",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MORGANFORD RD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "2",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383502.6",
+        "GPS_LONGITUDE": "901558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20416667,
+          38.615
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160031154",
+        "ACCIDENT_DATE": "2016-04-27",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.919",
+        "TRAVELWAY_ID": "97783",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "PARK AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383654",
+        "GPS_LONGITUDE": "901215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29644444,
+          38.59333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160031160",
+        "ACCIDENT_DATE": "2016-04-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "8.176",
+        "TRAVELWAY_ID": "6143",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "366",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383536",
+        "GPS_LONGITUDE": "901747.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28736111,
+          38.61502778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160032902",
+        "ACCIDENT_DATE": "2016-04-08",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.335",
+        "TRAVELWAY_ID": "60356",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ELIZABETH AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383654.1",
+        "GPS_LONGITUDE": "901714.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23977778,
+          38.67097222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160032927",
+        "ACCIDENT_DATE": "2016-04-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.602",
+        "TRAVELWAY_ID": "6378",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "115",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384015.5",
+        "GPS_LONGITUDE": "901423.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26322222,
+          38.65272222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160033038",
+        "ACCIDENT_DATE": "2016-04-24",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.54",
+        "TRAVELWAY_ID": "61490",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ENRIGHT AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383909.8",
+        "GPS_LONGITUDE": "901547.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.74927778,
+          38.82827778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160033908",
+        "ACCIDENT_DATE": "2016-04-13",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.052",
+        "TRAVELWAY_ID": "73992",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "HOFF RD",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "384941.8",
+        "GPS_LONGITUDE": "904457.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.60569444,
+          38.78961111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160034593",
+        "ACCIDENT_DATE": "2016-04-24",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.074",
+        "TRAVELWAY_ID": "115075",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "SPENCER RD",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384722.6",
+        "GPS_LONGITUDE": "903620.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24397222,
+          38.59030556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160037223",
+        "ACCIDENT_DATE": "2016-05-19",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "5.175",
+        "TRAVELWAY_ID": "68731",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383525.1",
+        "GPS_LONGITUDE": "901438.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24241667,
+          38.68694444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160037925",
+        "ACCIDENT_DATE": "2016-05-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "U",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.062",
+        "TRAVELWAY_ID": "74511",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "HOOKE AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384113",
+        "GPS_LONGITUDE": "901432.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22666667,
+          38.65816667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160038012",
+        "ACCIDENT_DATE": "2016-05-20",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.56",
+        "TRAVELWAY_ID": "116017",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ST LOUIS AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383929.4",
+        "GPS_LONGITUDE": "901336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23338889,
+          38.57608333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160038280",
+        "ACCIDENT_DATE": "2016-05-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.303",
+        "TRAVELWAY_ID": "147434",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BROADWAY ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383433.9",
+        "GPS_LONGITUDE": "901400.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20680556,
+          38.63661111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160038398",
+        "ACCIDENT_DATE": "2016-05-06",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.297",
+        "TRAVELWAY_ID": "10185",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "20TH ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383811.8",
+        "GPS_LONGITUDE": "901224.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28533333,
+          38.64608333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160038576",
+        "ACCIDENT_DATE": "2016-05-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.851",
+        "TRAVELWAY_ID": "83167",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LINDELL BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383845.9",
+        "GPS_LONGITUDE": "901707.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28080556,
+          38.60880556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160038818",
+        "ACCIDENT_DATE": "2016-05-05",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.29",
+        "TRAVELWAY_ID": "230275",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "REBER PL",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383631.7",
+        "GPS_LONGITUDE": "901650.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21741667,
+          38.66016667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160038992",
+        "ACCIDENT_DATE": "2016-05-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.077",
+        "TRAVELWAY_ID": "68731",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383936.6",
+        "GPS_LONGITUDE": "901302.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23991667,
+          38.59583333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160039085",
+        "ACCIDENT_DATE": "2016-07-27",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "50.969",
+        "TRAVELWAY_ID": "6370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "30",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383545",
+        "GPS_LONGITUDE": "901423.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.234,
+          38.63316667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160039098",
+        "ACCIDENT_DATE": "2016-07-30",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.409",
+        "TRAVELWAY_ID": "188565",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "FOREST PARK AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383759.4",
+        "GPS_LONGITUDE": "901402.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29125,
+          38.65933333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160039452",
+        "ACCIDENT_DATE": "2016-05-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.246",
+        "TRAVELWAY_ID": "25043",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CABANNE PL",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383933.6",
+        "GPS_LONGITUDE": "901728.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22508333,
+          38.63741667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160042752",
+        "ACCIDENT_DATE": "2016-08-21",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.439",
+        "TRAVELWAY_ID": "31332",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "COMPTON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383814.7",
+        "GPS_LONGITUDE": "901330.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21841667,
+          38.62252778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160044878",
+        "ACCIDENT_DATE": "2016-06-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.626",
+        "TRAVELWAY_ID": "76946",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "JEFFERSON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "3",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383721.1",
+        "GPS_LONGITUDE": "901306.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24758333,
+          38.61683333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160044955",
+        "ACCIDENT_DATE": "2016-09-16",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0",
+        "TRAVELWAY_ID": "81897",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "LAWRENCE ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383700.6",
+        "GPS_LONGITUDE": "901451.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22847222,
+          38.60261111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160045465",
+        "ACCIDENT_DATE": "2016-06-19",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "51.728",
+        "TRAVELWAY_ID": "6370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "30",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383609.4",
+        "GPS_LONGITUDE": "901342.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29458333,
+          38.64875
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160045502",
+        "ACCIDENT_DATE": "2016-09-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.547",
+        "TRAVELWAY_ID": "57198",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "DES PERES AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383855.5",
+        "GPS_LONGITUDE": "901740.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.30866667,
+          38.58805556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160045659",
+        "ACCIDENT_DATE": "2016-06-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.442",
+        "TRAVELWAY_ID": "76665",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "JAMIESON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383517",
+        "GPS_LONGITUDE": "901831.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22222222,
+          38.64275
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160045761",
+        "ACCIDENT_DATE": "2016-06-29",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "13.582",
+        "TRAVELWAY_ID": "6131",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "D",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "RT",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383833.9",
+        "GPS_LONGITUDE": "901320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27025,
+          38.62852778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160045902",
+        "ACCIDENT_DATE": "2016-06-28",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.872",
+        "TRAVELWAY_ID": "95135",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "OAKLAND AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383742.7",
+        "GPS_LONGITUDE": "901612.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.30527778,
+          38.56594444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160046172",
+        "ACCIDENT_DATE": "2016-06-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.308",
+        "TRAVELWAY_ID": "219803",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "OLDE ENGLISH RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "PVT",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383357.4",
+        "GPS_LONGITUDE": "901819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22947222,
+          38.62466667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160046293",
+        "ACCIDENT_DATE": "2016-06-07",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "119.033",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383728.8",
+        "GPS_LONGITUDE": "901346.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27058333,
+          38.63272222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160046303",
+        "ACCIDENT_DATE": "2016-06-05",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.617",
+        "TRAVELWAY_ID": "29958",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383757.8",
+        "GPS_LONGITUDE": "901614.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23741667,
+          38.58794444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160046330",
+        "ACCIDENT_DATE": "2016-06-06",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.491",
+        "TRAVELWAY_ID": "89784",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MICHIGAN AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383516.6",
+        "GPS_LONGITUDE": "901414.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29747222,
+          38.65491667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160046331",
+        "ACCIDENT_DATE": "2016-06-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.744",
+        "TRAVELWAY_ID": "56929",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "DELMAR BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383917.7",
+        "GPS_LONGITUDE": "901750.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.55627778,
+          38.78016667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160047696",
+        "ACCIDENT_DATE": "2016-06-18",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.387",
+        "TRAVELWAY_ID": "122358",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "TIMBERRIDGE DR",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384648.6",
+        "GPS_LONGITUDE": "903322.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.48955556,
+          38.83391667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160048504",
+        "ACCIDENT_DATE": "2016-06-11",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.231",
+        "TRAVELWAY_ID": "936855",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "GRANGER BLVD",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "385002.1",
+        "GPS_LONGITUDE": "902922.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25391667,
+          38.58613889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160049305",
+        "ACCIDENT_DATE": "2016-12-27",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.696",
+        "TRAVELWAY_ID": "89438",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MERAMEC ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383510.1",
+        "GPS_LONGITUDE": "901514.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24627778,
+          38.65655556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160051615",
+        "ACCIDENT_DATE": "2016-07-28",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "12.497",
+        "TRAVELWAY_ID": "6157",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "180",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383923.6",
+        "GPS_LONGITUDE": "901446.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27922222,
+          38.59188889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160051705",
+        "ACCIDENT_DATE": "2016-07-26",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.351",
+        "TRAVELWAY_ID": "22739",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BRANNON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383530.8",
+        "GPS_LONGITUDE": "901645.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19586111,
+          38.65566667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160051752",
+        "ACCIDENT_DATE": "2016-07-30",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.296",
+        "TRAVELWAY_ID": "255781",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "70",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "OR",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383920.4",
+        "GPS_LONGITUDE": "901145.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24433333,
+          38.63116667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160051848",
+        "ACCIDENT_DATE": "2016-07-23",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.559",
+        "TRAVELWAY_ID": "124438",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "VANDEVENTER AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383752.2",
+        "GPS_LONGITUDE": "901439.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.256,
+          38.62722222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160052072",
+        "ACCIDENT_DATE": "2016-07-19",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.238",
+        "TRAVELWAY_ID": "57225",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "DE TONTY ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383738",
+        "GPS_LONGITUDE": "901521.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23658333,
+          38.59497222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160052743",
+        "ACCIDENT_DATE": "2016-07-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.355",
+        "TRAVELWAY_ID": "28303",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CHEROKEE ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383541.9",
+        "GPS_LONGITUDE": "901411.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35816667,
+          38.66080556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160052827",
+        "ACCIDENT_DATE": "2016-07-20",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.455",
+        "TRAVELWAY_ID": "56929",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "DELMAR BLVD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383938.9",
+        "GPS_LONGITUDE": "902129.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24686111,
+          38.58669444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160053227",
+        "ACCIDENT_DATE": "2016-07-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.328",
+        "TRAVELWAY_ID": "67614",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GILES AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383512.1",
+        "GPS_LONGITUDE": "901448.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23163889,
+          38.63897222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160056292",
+        "ACCIDENT_DATE": "2016-08-05",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.956",
+        "TRAVELWAY_ID": "126820",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WASHINGTON AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383820.3",
+        "GPS_LONGITUDE": "901353.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23233333,
+          38.60133333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160057228",
+        "ACCIDENT_DATE": "2016-08-24",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.364",
+        "TRAVELWAY_ID": "17408",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ARSENAL AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383604.8",
+        "GPS_LONGITUDE": "901356.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20897222,
+          38.61502778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160057549",
+        "ACCIDENT_DATE": "2016-08-09",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0",
+        "TRAVELWAY_ID": "966193",
+        "DIRECTION": "N",
+        "TRAVELWAY_NAME": "TRUMAN PKWY",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383654.1",
+        "GPS_LONGITUDE": "901232.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23883333,
+          35.58419444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160057615",
+        "ACCIDENT_DATE": "2016-08-08",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.319",
+        "TRAVELWAY_ID": "96663",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "OSAGE ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "353503.1",
+        "GPS_LONGITUDE": "901419.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20361111,
+          38.61230556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160058010",
+        "ACCIDENT_DATE": "2016-08-12",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.207",
+        "TRAVELWAY_ID": "89389",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MENARD ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383644.3",
+        "GPS_LONGITUDE": "901213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26227778,
+          38.63919444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160059664",
+        "ACCIDENT_DATE": "2016-08-31",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.12",
+        "TRAVELWAY_ID": "61769",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383821.1",
+        "GPS_LONGITUDE": "901544.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7045,
+          38.78027778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160060008",
+        "ACCIDENT_DATE": "2016-08-30",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.18",
+        "TRAVELWAY_ID": "67959",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "GLENGATE ESTATES DR",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384649",
+        "GPS_LONGITUDE": "904216.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.72958333,
+          38.79608333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160060236",
+        "ACCIDENT_DATE": "2016-08-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.461",
+        "TRAVELWAY_ID": "935818",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "WHITE MAGNOLIA DR",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CRD",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384745.9",
+        "GPS_LONGITUDE": "904346.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70502778,
+          38.77905556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160060300",
+        "ACCIDENT_DATE": "2016-08-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.122",
+        "TRAVELWAY_ID": "86964",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MAR-TON ESTATE DR",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384644.6",
+        "GPS_LONGITUDE": "904218.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.49372222,
+          38.56758333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160060494",
+        "ACCIDENT_DATE": "2016-08-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.194",
+        "TRAVELWAY_ID": "80098",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "LA BONNE PKWY",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383403.3",
+        "GPS_LONGITUDE": "902937.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37019444,
+          38.70075
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160060553",
+        "ACCIDENT_DATE": "2016-08-07",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.26",
+        "TRAVELWAY_ID": "115058",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "SPENCER AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384202.7",
+        "GPS_LONGITUDE": "902212.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21652778,
+          38.63358333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160060999",
+        "ACCIDENT_DATE": "2016-08-26",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.333",
+        "TRAVELWAY_ID": "19643",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BEAUMONT AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383800.9",
+        "GPS_LONGITUDE": "901259.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35841667,
+          38.78266667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160061757",
+        "ACCIDENT_DATE": "2016-08-31",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.049",
+        "TRAVELWAY_ID": "84940",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LYNN HAVEN LN",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384657.6",
+        "GPS_LONGITUDE": "902130.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24569444,
+          38.57875
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160063355",
+        "ACCIDENT_DATE": "2016-09-03",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "U",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.411",
+        "TRAVELWAY_ID": "96694",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "OSCEOLA ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383443.5",
+        "GPS_LONGITUDE": "901444.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23447222,
+          38.60141667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160063405",
+        "ACCIDENT_DATE": "2016-09-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.227",
+        "TRAVELWAY_ID": "17408",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ARSENAL AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383605.1",
+        "GPS_LONGITUDE": "901404.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24805556,
+          38.65780556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160063414",
+        "ACCIDENT_DATE": "2016-09-02",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "12.355",
+        "TRAVELWAY_ID": "6157",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "180",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383928.1",
+        "GPS_LONGITUDE": "901453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25558333,
+          38.56044444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160063532",
+        "ACCIDENT_DATE": "2016-09-14",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.345",
+        "TRAVELWAY_ID": "74196",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "HOLLY HILLS AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383337.6",
+        "GPS_LONGITUDE": "901520.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21502778,
+          38.60780556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160064331",
+        "ACCIDENT_DATE": "2016-09-24",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "52.538",
+        "TRAVELWAY_ID": "6370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "30",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383628.1",
+        "GPS_LONGITUDE": "901254.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.18727778,
+          38.63163889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160064359",
+        "ACCIDENT_DATE": "2016-09-20",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.426",
+        "TRAVELWAY_ID": "23559",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BROADWAY",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383753.9",
+        "GPS_LONGITUDE": "901114.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26188889,
+          38.64180556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160064372",
+        "ACCIDENT_DATE": "2016-09-19",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.924",
+        "TRAVELWAY_ID": "61769",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383830.5",
+        "GPS_LONGITUDE": "901542.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24438889,
+          38.56052778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160064803",
+        "ACCIDENT_DATE": "2016-09-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.681",
+        "TRAVELWAY_ID": "99404",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "PENNSYLVANIA AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383337.9",
+        "GPS_LONGITUDE": "901439.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28688889,
+          38.62938889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160064870",
+        "ACCIDENT_DATE": "2016-09-14",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.774",
+        "TRAVELWAY_ID": "20700",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "BERTHOLD AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383745.8",
+        "GPS_LONGITUDE": "901712.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21055556,
+          38.60827778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160064904",
+        "ACCIDENT_DATE": "2016-09-25",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "5.8",
+        "TRAVELWAY_ID": "69071",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "GRAVOIS AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383629.8",
+        "GPS_LONGITUDE": "901238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26336111,
+          38.63422222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160064989",
+        "ACCIDENT_DATE": "2016-09-08",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.444",
+        "TRAVELWAY_ID": "61769",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383803.2",
+        "GPS_LONGITUDE": "901548.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25413889,
+          38.62908333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160065727",
+        "ACCIDENT_DATE": "2016-09-29",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.276",
+        "TRAVELWAY_ID": "22537",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BOYLE AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383744.7",
+        "GPS_LONGITUDE": "901514.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.69244444,
+          38.83061111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160066513",
+        "ACCIDENT_DATE": "2016-09-14",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.098",
+        "TRAVELWAY_ID": "936304",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "HOMERUN DR",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384950.2",
+        "GPS_LONGITUDE": "904132.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.56522222,
+          38.791
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160067579",
+        "ACCIDENT_DATE": "2016-09-27",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "9.533",
+        "TRAVELWAY_ID": "89637",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MEXICO RD",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384727.6",
+        "GPS_LONGITUDE": "903354.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.307,
+          38.70727778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160068406",
+        "ACCIDENT_DATE": "2016-04-26",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.105",
+        "TRAVELWAY_ID": "6379",
+        "DIRECTION": "N",
+        "TRAVELWAY_NAME": "115",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384226.2",
+        "GPS_LONGITUDE": "901825.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25413889,
+          38.61175
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160070116",
+        "ACCIDENT_DATE": "2016-10-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.163",
+        "TRAVELWAY_ID": "30148",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLEVELAND AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383642.3",
+        "GPS_LONGITUDE": "901514.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23994444,
+          38.60238889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160070481",
+        "ACCIDENT_DATE": "2016-10-05",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.921",
+        "TRAVELWAY_ID": "17408",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ARSENAL AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383608.6",
+        "GPS_LONGITUDE": "901423.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24686111,
+          38.59219444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160070752",
+        "ACCIDENT_DATE": "2016-10-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "50.527",
+        "TRAVELWAY_ID": "6370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "30",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383531.9",
+        "GPS_LONGITUDE": "901448.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26361111,
+          38.70158333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160070780",
+        "ACCIDENT_DATE": "2016-10-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.311",
+        "TRAVELWAY_ID": "82880",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LILLIAN AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384205.7",
+        "GPS_LONGITUDE": "901549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.18680556,
+          38.63380556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160070788",
+        "ACCIDENT_DATE": "2016-10-11",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.003",
+        "TRAVELWAY_ID": "26180",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CARR ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383801.7",
+        "GPS_LONGITUDE": "901112.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28752778,
+          38.61516667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160070792",
+        "ACCIDENT_DATE": "2016-10-03",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.329",
+        "TRAVELWAY_ID": "60356",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ELIZABETH AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383654.6",
+        "GPS_LONGITUDE": "901715.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27930556,
+          38.60772222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160071077",
+        "ACCIDENT_DATE": "2016-10-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.559",
+        "TRAVELWAY_ID": "85125",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MACKLIND AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383627.8",
+        "GPS_LONGITUDE": "901645.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20719444,
+          38.64433333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160071541",
+        "ACCIDENT_DATE": "2016-10-29",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.401",
+        "TRAVELWAY_ID": "26412",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CASS AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383839.6",
+        "GPS_LONGITUDE": "901225.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.86944444,
+          38.71333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160071650",
+        "ACCIDENT_DATE": "2016-10-14",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "14.89",
+        "TRAVELWAY_ID": "7309",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "D",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "RT",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384248",
+        "GPS_LONGITUDE": "905210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19833333,
+          38.63369444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160072356",
+        "ACCIDENT_DATE": "2016-10-21",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.156",
+        "TRAVELWAY_ID": "904564",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "DELMAR BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383801.3",
+        "GPS_LONGITUDE": "901154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.50193611,
+          38.798
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160073779",
+        "ACCIDENT_DATE": "2016-10-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.218",
+        "TRAVELWAY_ID": "60976",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "ELM ST",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384752.8",
+        "GPS_LONGITUDE": "90306.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.299,
+          38.65833333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160077016",
+        "ACCIDENT_DATE": "2016-11-07",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.169",
+        "TRAVELWAY_ID": "113901",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "SKINKER BLVD",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383930",
+        "GPS_LONGITUDE": "901756.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19458333,
+          38.62911111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160077494",
+        "ACCIDENT_DATE": "2016-11-20",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.964",
+        "TRAVELWAY_ID": "8240",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "10TH ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383744.8",
+        "GPS_LONGITUDE": "901140.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28466667,
+          38.65219444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160077665",
+        "ACCIDENT_DATE": "2016-11-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.14",
+        "TRAVELWAY_ID": "56437",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "DE BALIVIERE AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383907.9",
+        "GPS_LONGITUDE": "901704.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23119444,
+          38.62486111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160077719",
+        "ACCIDENT_DATE": "2016-11-14",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.025",
+        "TRAVELWAY_ID": "125277",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "VIRGINIA AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383729.5",
+        "GPS_LONGITUDE": "901352.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22819444,
+          38.59580556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160078399",
+        "ACCIDENT_DATE": "2016-11-03",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.793",
+        "TRAVELWAY_ID": "75942",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "IOWA AVE",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383544.9",
+        "GPS_LONGITUDE": "901341.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.42761111,
+          38.75233333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160079264",
+        "ACCIDENT_DATE": "2016-11-03",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.636",
+        "TRAVELWAY_ID": "6157",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "180",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384508.4",
+        "GPS_LONGITUDE": "902539.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37875,
+          38.42966667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160079433",
+        "ACCIDENT_DATE": "2016-11-12",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "182.611",
+        "TRAVELWAY_ID": "11",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "61",
+        "Expr1011": "JEFFERSON",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "US",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "JEFFERSON",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "382546.8",
+        "GPS_LONGITUDE": "902243.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.45625,
+          38.60172222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160081315",
+        "ACCIDENT_DATE": "2016-11-20",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "106.264",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383606.2",
+        "GPS_LONGITUDE": "902722.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.24683333,
+          38.62875
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "160084574",
+        "ACCIDENT_DATE": "2016-12-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.387",
+        "TRAVELWAY_ID": "97596",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "PAPIN ST",
+        "Expr1011": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383743.5",
+        "GPS_LONGITUDE": "901448.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.231,
+          38.75586111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160006313",
+        "ACCIDENT_DATE": "2016-03-02",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.634",
+        "TRAVELWAY_ID": "17616",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "ASHBROOK DR",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384521.1",
+        "GPS_LONGITUDE": "901351.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.39294444,
+          38.56777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160010423",
+        "ACCIDENT_DATE": "2016-03-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.149",
+        "TRAVELWAY_ID": "104639",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "IS44E TO BIG BEND BLVD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "RP",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383404",
+        "GPS_LONGITUDE": "902334.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37197222,
+          38.66530556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160013648",
+        "ACCIDENT_DATE": "2016-04-24",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.32",
+        "TRAVELWAY_ID": "95583",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "OLD BONHOMME RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383955.1",
+        "GPS_LONGITUDE": "902219.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.55405556,
+          38.14466667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160013865",
+        "ACCIDENT_DATE": "2016-04-05",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.177",
+        "TRAVELWAY_ID": "64145",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "FLETCHER ST",
+        "Expr1011": "JEFFERSON",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "JEFFERSON",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "380840.8",
+        "GPS_LONGITUDE": "903314.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.50413889,
+          38.64977778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160015045",
+        "ACCIDENT_DATE": "2016-05-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.985",
+        "TRAVELWAY_ID": "31586",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CONWAY RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383859.2",
+        "GPS_LONGITUDE": "903014.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3255,
+          38.54383333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160018524",
+        "ACCIDENT_DATE": "2016-05-27",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.404",
+        "TRAVELWAY_ID": "106361",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "REAVIS RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CRD",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383237.8",
+        "GPS_LONGITUDE": "901931.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.33591667,
+          38.65044444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160019127",
+        "ACCIDENT_DATE": "2016-05-25",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.745",
+        "TRAVELWAY_ID": "65121",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "FORSYTH BLVD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383901.6",
+        "GPS_LONGITUDE": "902009.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32733333,
+          38.68283333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160019652",
+        "ACCIDENT_DATE": "2016-06-02",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.17",
+        "TRAVELWAY_ID": "6131",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "D",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "RT",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384058.2",
+        "GPS_LONGITUDE": "901938.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.33166667,
+          38.62269444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160019658",
+        "ACCIDENT_DATE": "2016-05-10",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.142",
+        "TRAVELWAY_ID": "127464",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WEST BRUNO AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383721.7",
+        "GPS_LONGITUDE": "901954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31663889,
+          38.64322222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160019971",
+        "ACCIDENT_DATE": "2016-06-03",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.002",
+        "TRAVELWAY_ID": "131307",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WYDOWN BLVD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383835.6",
+        "GPS_LONGITUDE": "901859.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.44169444,
+          38.63208333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160022011",
+        "ACCIDENT_DATE": "2016-06-09",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "12.075",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383755.5",
+        "GPS_LONGITUDE": "902630.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32297222,
+          38.55486111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160022710",
+        "ACCIDENT_DATE": "2016-06-24",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "U",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.03",
+        "TRAVELWAY_ID": "127620",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WEBER RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CRD",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383317.5",
+        "GPS_LONGITUDE": "901922.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.34780556,
+          38.72283333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160023158",
+        "ACCIDENT_DATE": "2016-06-03",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.469",
+        "TRAVELWAY_ID": "24049",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BROWN RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384322.2",
+        "GPS_LONGITUDE": "902052.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.36083333,
+          38.59591667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160023374",
+        "ACCIDENT_DATE": "2016-05-13",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "U",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.395",
+        "TRAVELWAY_ID": "79622",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "KIRKHAM AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383545.3",
+        "GPS_LONGITUDE": "902139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40191667,
+          38.21425
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160025291",
+        "ACCIDENT_DATE": "2016-07-07",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.055",
+        "TRAVELWAY_ID": "82056",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LEE AVE",
+        "Expr1011": "JEFFERSON",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "JEFFERSON",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "381251.3",
+        "GPS_LONGITUDE": "902406.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.44527778,
+          38.56366667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160025569",
+        "ACCIDENT_DATE": "2016-07-12",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.281",
+        "TRAVELWAY_ID": "122294",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "TIMBERBROOK DR",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383349.2",
+        "GPS_LONGITUDE": "902643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.42341667,
+          38.56691667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160027987",
+        "ACCIDENT_DATE": "2016-07-27",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.001",
+        "TRAVELWAY_ID": "75343",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "HUTHMAKER AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383400.9",
+        "GPS_LONGITUDE": "902524.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58988889,
+          38.66491667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160032604",
+        "ACCIDENT_DATE": "2016-08-23",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.864",
+        "TRAVELWAY_ID": "59722",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "EDISON AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383953.7",
+        "GPS_LONGITUDE": "903523.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.33286111,
+          38.72052778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160032627",
+        "ACCIDENT_DATE": "2016-08-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.399",
+        "TRAVELWAY_ID": "6378",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "115",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384313.9",
+        "GPS_LONGITUDE": "901958.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.33583333,
+          38.60294444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160032734",
+        "ACCIDENT_DATE": "2016-08-21",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.608",
+        "TRAVELWAY_ID": "17860",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ATALANTA AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383610.6",
+        "GPS_LONGITUDE": "902009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.33233333,
+          38.76222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160034225",
+        "ACCIDENT_DATE": "2016-09-05",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "U",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.356",
+        "TRAVELWAY_ID": "66578",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "FROSTVIEW LN",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384544",
+        "GPS_LONGITUDE": "901956.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37177778,
+          38.51263889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160034966",
+        "ACCIDENT_DATE": "2016-09-07",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.658",
+        "TRAVELWAY_ID": "16",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "21",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383045.5",
+        "GPS_LONGITUDE": "902218.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.42016667,
+          38.63311111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160035306",
+        "ACCIDENT_DATE": "2016-09-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "13.253",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383759.2",
+        "GPS_LONGITUDE": "902512.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.36938889,
+          38.56188889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160035604",
+        "ACCIDENT_DATE": "2016-09-05",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "8.506",
+        "TRAVELWAY_ID": "6144",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "366",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383342.8",
+        "GPS_LONGITUDE": "902209.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6305,
+          38.49225
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160035986",
+        "ACCIDENT_DATE": "2016-09-03",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "12.003",
+        "TRAVELWAY_ID": "6130",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "109",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "382932.1",
+        "GPS_LONGITUDE": "903749.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32972222,
+          38.64305556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160036670",
+        "ACCIDENT_DATE": "2016-09-07",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.569",
+        "TRAVELWAY_ID": "255192",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "WYDOWN BLVD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383835",
+        "GPS_LONGITUDE": "901947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37383333,
+          38.64102778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160036805",
+        "ACCIDENT_DATE": "2016-09-20",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "15.9",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383827.7",
+        "GPS_LONGITUDE": "902225.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.273,
+          38.76861111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160036857",
+        "ACCIDENT_DATE": "2016-09-19",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0",
+        "TRAVELWAY_ID": "16030",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "ALLIANCE DR",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384607",
+        "GPS_LONGITUDE": "901622.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.01936111,
+          38.55722222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160037727",
+        "ACCIDENT_DATE": "2016-09-24",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.513",
+        "TRAVELWAY_ID": "1025950",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "STAFFORD ST",
+        "Expr1011": "FRANKLIN",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383326",
+        "GPS_LONGITUDE": "910109.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29491667,
+          38.69838889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160037912",
+        "ACCIDENT_DATE": "2016-08-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.158",
+        "TRAVELWAY_ID": "6155",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "U",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "RT",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384154.2",
+        "GPS_LONGITUDE": "901741.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.44094444,
+          38.51288889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160038069",
+        "ACCIDENT_DATE": "2016-09-27",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0",
+        "TRAVELWAY_ID": "95827",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "OLD HWY 141",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383046.4",
+        "GPS_LONGITUDE": "902627.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31891667,
+          38.75413889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160038268",
+        "ACCIDENT_DATE": "2016-09-23",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.014",
+        "TRAVELWAY_ID": "76737",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "JANUARY AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "384514.9",
+        "GPS_LONGITUDE": "901908.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31930556,
+          38.6195
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160040287",
+        "ACCIDENT_DATE": "2016-10-06",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.123",
+        "TRAVELWAY_ID": "24161",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "BRUNO AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383710.2",
+        "GPS_LONGITUDE": "901909.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.38425,
+          38.56411111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160040415",
+        "ACCIDENT_DATE": "2016-09-28",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.461",
+        "TRAVELWAY_ID": "110415",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "SAPPINGTON RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CRD",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383350.8",
+        "GPS_LONGITUDE": "902303.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31972222,
+          38.61261111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160040431",
+        "ACCIDENT_DATE": "2016-10-08",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "113.934",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383645.4",
+        "GPS_LONGITUDE": "901911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.36305556,
+          38.67394444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160040584",
+        "ACCIDENT_DATE": "2016-10-07",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.021",
+        "TRAVELWAY_ID": "6203",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MO340E TO IS170E",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "RP",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "384026.2",
+        "GPS_LONGITUDE": "902147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.01777778,
+          38.56425
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160041181",
+        "ACCIDENT_DATE": "2016-10-01",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.391",
+        "TRAVELWAY_ID": "1021187",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WEST FRONT ST",
+        "Expr1011": "FRANKLIN",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383351.3",
+        "GPS_LONGITUDE": "910104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.34205556,
+          38.64591667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160041458",
+        "ACCIDENT_DATE": "2016-09-30",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.323",
+        "TRAVELWAY_ID": "22930",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "S BRENTWOOD BLVD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383845.3",
+        "GPS_LONGITUDE": "902031.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.34683333,
+          38.57686111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160041571",
+        "ACCIDENT_DATE": "2016-10-12",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.925",
+        "TRAVELWAY_ID": "59586",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "EDGAR RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383436.7",
+        "GPS_LONGITUDE": "902048.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.00975,
+          38.53869444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160041901",
+        "ACCIDENT_DATE": "2016-10-18",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "70.144",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "Expr1011": "FRANKLIN",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383219.3",
+        "GPS_LONGITUDE": "910035.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.41147222,
+          38.57425
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160042097",
+        "ACCIDENT_DATE": "2016-10-21",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.785",
+        "TRAVELWAY_ID": "127544",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WOODBINE AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383427.3",
+        "GPS_LONGITUDE": "902441.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40455556,
+          38.54761111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160042872",
+        "ACCIDENT_DATE": "2016-10-21",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "253.329",
+        "TRAVELWAY_ID": "3507",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "50",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "US",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383251.4",
+        "GPS_LONGITUDE": "902416.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.98758333,
+          38.53872222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160043094",
+        "ACCIDENT_DATE": "2016-10-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "71.349",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "Expr1011": "FRANKLIN",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383219.4",
+        "GPS_LONGITUDE": "905915.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.03011111,
+          38.56922222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160044111",
+        "ACCIDENT_DATE": "2016-10-30",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.037",
+        "TRAVELWAY_ID": "1026840",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WEST MAIN ST",
+        "Expr1011": "FRANKLIN",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383409.2",
+        "GPS_LONGITUDE": "910148.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.39722222,
+          38.58088889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160044478",
+        "ACCIDENT_DATE": "2016-11-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.993",
+        "TRAVELWAY_ID": "127461",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ARGONNE AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383451.2",
+        "GPS_LONGITUDE": "902350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37225,
+          38.50883333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160044499",
+        "ACCIDENT_DATE": "2016-11-02",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "U",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.063",
+        "TRAVELWAY_ID": "114430",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "SOMERSET PLACE DR",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "PVT",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383031.8",
+        "GPS_LONGITUDE": "902220.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32711111,
+          38.79116667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160044646",
+        "ACCIDENT_DATE": "2016-10-27",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.751",
+        "TRAVELWAY_ID": "127033",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WASHINGTON ST",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384728.2",
+        "GPS_LONGITUDE": "901937.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20127778,
+          38.78097222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160045367",
+        "ACCIDENT_DATE": "2016-11-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.378",
+        "TRAVELWAY_ID": "205384",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LARIMORE RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CRD",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "384651.5",
+        "GPS_LONGITUDE": "901204.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.54694444,
+          38.59294444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160045453",
+        "ACCIDENT_DATE": "2016-11-09",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.283",
+        "TRAVELWAY_ID": "119319",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "SUNNY SIDE CT",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383534.6",
+        "GPS_LONGITUDE": "903249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.34588889,
+          38.79038889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160045474",
+        "ACCIDENT_DATE": "2016-11-03",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "12.936",
+        "TRAVELWAY_ID": "15",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "67",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "US",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384725.4",
+        "GPS_LONGITUDE": "902045.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2255,
+          38.78566667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160047208",
+        "ACCIDENT_DATE": "2016-11-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.251",
+        "TRAVELWAY_ID": "106620",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "REDMAN RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CRD",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384708.4",
+        "GPS_LONGITUDE": "901331.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.33261111,
+          38.64305556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160049561",
+        "ACCIDENT_DATE": "2016-10-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "5",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.129",
+        "TRAVELWAY_ID": "131307",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WYDOWN BLVD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "383835",
+        "GPS_LONGITUDE": "901957.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29169444,
+          38.51102778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160051149",
+        "ACCIDENT_DATE": "2016-11-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.379",
+        "TRAVELWAY_ID": "6256",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "231",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "383039.7",
+        "GPS_LONGITUDE": "901730.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35661111,
+          38.7355
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160052529",
+        "ACCIDENT_DATE": "2016-10-04",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.596",
+        "TRAVELWAY_ID": "255776",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "70",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "OR",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384407.8",
+        "GPS_LONGITUDE": "902123.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.558,
+          38.45125
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160056722",
+        "ACCIDENT_DATE": "2016-10-11",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.907",
+        "TRAVELWAY_ID": "66155",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "FRANKS RD",
+        "Expr1011": "JEFFERSON",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "JEFFERSON",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "382704.5",
+        "GPS_LONGITUDE": "903328.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32238889,
+          38.74980556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2160057040",
+        "ACCIDENT_DATE": "2016-08-25",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.155",
+        "TRAVELWAY_ID": "99711",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "PEURIFOY AVE",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384459.3",
+        "GPS_LONGITUDE": "901920.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.50933333,
+          38.77891667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3160006242",
+        "ACCIDENT_DATE": "2016-01-16",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "110.636",
+        "TRAVELWAY_ID": "7756",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "94",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "MO",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384644.1",
+        "GPS_LONGITUDE": "903033.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.64825,
+          38.80583333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3160012755",
+        "ACCIDENT_DATE": "2016-05-17",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.734",
+        "TRAVELWAY_ID": "255701",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "70",
+        "Expr1011": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "OR",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384821",
+        "GPS_LONGITUDE": "903853.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.04644444,
+          38.31708333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3160024672",
+        "ACCIDENT_DATE": "2016-09-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "57.926",
+        "TRAVELWAY_ID": "10",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "44",
+        "Expr1011": "FRANKLIN",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "IS",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "1",
+        "GPS_LATITUDE": "381901.5",
+        "GPS_LONGITUDE": "910247.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37611111,
+          38.40136111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3160026114",
+        "ACCIDENT_DATE": "2016-09-22",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "184.826",
+        "TRAVELWAY_ID": "11",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "61",
+        "Expr1011": "JEFFERSON",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "US",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "JEFFERSON",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "382404.9",
+        "GPS_LONGITUDE": "902234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.41183333,
+          38.21425
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3160027685",
+        "ACCIDENT_DATE": "2016-10-18",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.312",
+        "TRAVELWAY_ID": "30989",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "COLLINS DR",
+        "Expr1011": "JEFFERSON",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "1",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "JEFFERSON",
+        "NUMBER_KILLED": "0",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "381251.3",
+        "GPS_LONGITUDE": "902442.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32194444,
+          38.74938889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3160032461",
+        "ACCIDENT_DATE": "2016-11-12",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "1",
+        "HP_PERSON_INVL_CD": "4",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.332",
+        "TRAVELWAY_ID": "15585",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "AIRPORT RD",
+        "Expr1011": "ST. LOUIS",
+        "SEVERITY": "FATAL",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "2",
+        "NO_OF_MINOR_INJURY": "0",
+        "DESIGNATION": "CST",
+        "MODOT_DISTRICT_NO": "5",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "NUMBER_KILLED": "1",
+        "NO_DISAB_INJURY": "0",
+        "GPS_LATITUDE": "384457.8",
+        "GPS_LONGITUDE": "901919"
+      }
+    }
+  ]
+}
