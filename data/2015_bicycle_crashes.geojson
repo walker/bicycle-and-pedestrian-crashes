@@ -1,0 +1,3756 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4186388888889,
+          38.7636944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150010042",
+        "ACCIDENT_DATE": "16-Jan-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "1",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.805",
+        "TRAVELWAY_ID": "190684",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "GALLATIN LN",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "FATAL",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384549.3",
+        "GPS_LONGITUDE": "902507.1",
+        "ON_LOCATION_STREET": "CST GALLATIN LN",
+        "AT_LOCATION_STREET": "CST GIST RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2590833333333,
+          38.6595
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150010449",
+        "ACCIDENT_DATE": "10-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "11.265",
+        "TRAVELWAY_ID": "6131",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "D",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "FATAL",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383934.2",
+        "GPS_LONGITUDE": "901532.7",
+        "ON_LOCATION_STREET": "CST PAGE BLVD",
+        "AT_LOCATION_STREET": "CST EUCLID AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2655277777778,
+          38.6313055555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150011097",
+        "ACCIDENT_DATE": "09-Jan-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.711",
+        "TRAVELWAY_ID": "6373",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "64",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383752.7",
+        "GPS_LONGITUDE": "901555.9",
+        "ON_LOCATION_STREET": "IS 64",
+        "AT_LOCATION_STREET": "CST KINGSHIGHWAY BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2635833333333,
+          38.6505555555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150017223",
+        "ACCIDENT_DATE": "17-Feb-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.334",
+        "TRAVELWAY_ID": "79484",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "KINGSHIGHWAY BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383902.0",
+        "GPS_LONGITUDE": "901548.9",
+        "ON_LOCATION_STREET": "CST KINGSHIGHWAY BLVD",
+        "AT_LOCATION_STREET": "CST WASHINGTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2905,
+          38.569
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150021544",
+        "ACCIDENT_DATE": "28-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.232",
+        "TRAVELWAY_ID": "90909",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MOELLENHOFFAVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383408.4",
+        "GPS_LONGITUDE": "901725.8",
+        "ON_LOCATION_STREET": "CST MOELLENHOFF AVE",
+        "AT_LOCATION_STREET": "CST ROBERT AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2047222222222,
+          38.6309444444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150021786",
+        "ACCIDENT_DATE": "29-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.269",
+        "TRAVELWAY_ID": "96143",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "OLIVE ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383751.4",
+        "GPS_LONGITUDE": "901217.0",
+        "ON_LOCATION_STREET": "CST OLIVE ST",
+        "AT_LOCATION_STREET": "CST 17TH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2328611111111,
+          38.5944722222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150021849",
+        "ACCIDENT_DATE": "15-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.551",
+        "TRAVELWAY_ID": "28303",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CHEROKEE ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383540.1",
+        "GPS_LONGITUDE": "901358.3",
+        "ON_LOCATION_STREET": "CST CHEROKEE ST",
+        "AT_LOCATION_STREET": "CST PENNSYLVANIA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2617222222222,
+          38.6030277777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150022269",
+        "ACCIDENT_DATE": "12-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.113",
+        "TRAVELWAY_ID": "91579",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MORGANFORD RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383610.9",
+        "GPS_LONGITUDE": "901542.2",
+        "ON_LOCATION_STREET": "CST MORGANFORD AVE",
+        "AT_LOCATION_STREET": "CST JUNIATA ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2371111111111,
+          38.6096666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150022485",
+        "ACCIDENT_DATE": "11-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.189",
+        "TRAVELWAY_ID": "112725",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "SHENANDOAH AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383634.8",
+        "GPS_LONGITUDE": "901413.6",
+        "ON_LOCATION_STREET": "CST SHENANDOAH AVE",
+        "AT_LOCATION_STREET": "CST TENNESSEE AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2726111111111,
+          38.5930555555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150022531",
+        "ACCIDENT_DATE": "25-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.382",
+        "TRAVELWAY_ID": "79484",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "KINGSHIGHWAY BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383535.0",
+        "GPS_LONGITUDE": "901621.4",
+        "ON_LOCATION_STREET": "CST KINGSHIGHWAY BLVD",
+        "AT_LOCATION_STREET": "CST THOLOZAN AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2716111111111,
+          38.5786666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150023261",
+        "ACCIDENT_DATE": "22-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "48.828",
+        "TRAVELWAY_ID": "6370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "30",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383443.2",
+        "GPS_LONGITUDE": "901617.8",
+        "ON_LOCATION_STREET": "ALY GRAVOIS AVE",
+        "AT_LOCATION_STREET": "ALY GERTRUDE AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2998611111111,
+          38.6544722222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150026822",
+        "ACCIDENT_DATE": "22-Apr-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.437",
+        "TRAVELWAY_ID": "113901",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "SKINKER BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383916.1",
+        "GPS_LONGITUDE": "901759.5",
+        "ON_LOCATION_STREET": "CST SKINKER BLVD",
+        "AT_LOCATION_STREET": "CST WASHINGTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2042222222222,
+          38.6195555555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150027431",
+        "ACCIDENT_DATE": "10-Apr-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.727",
+        "TRAVELWAY_ID": "9215",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "14TH ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383710.4",
+        "GPS_LONGITUDE": "901215.2",
+        "ON_LOCATION_STREET": "CST 14TH ST",
+        "AT_LOCATION_STREET": "CST CHOUTEAU AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2385833333333,
+          38.5965
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150028483",
+        "ACCIDENT_DATE": "16-Apr-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.247",
+        "TRAVELWAY_ID": "84558",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "LOUISIANA AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383547.4",
+        "GPS_LONGITUDE": "901418.9",
+        "ON_LOCATION_STREET": "CST LOUISIANA AVE",
+        "AT_LOCATION_STREET": "CST MIAMI ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6712222222222,
+          38.7781111111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150029402",
+        "ACCIDENT_DATE": "17-Apr-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.098",
+        "TRAVELWAY_ID": "130499",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WOOD OAK DR",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384641.2",
+        "GPS_LONGITUDE": "904016.4",
+        "ON_LOCATION_STREET": "CST WOOD OAKS DR",
+        "AT_LOCATION_STREET": "CRD OAKRIDGE WEST DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2461111111111,
+          38.6015277777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150032374",
+        "ACCIDENT_DATE": "28-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.189",
+        "TRAVELWAY_ID": "1007891",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "JUNIATA ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383605.5",
+        "GPS_LONGITUDE": "901446.0",
+        "ON_LOCATION_STREET": "CST JUNIATA ST",
+        "AT_LOCATION_STREET": "CST SPRING AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2393055555556,
+          38.6160555555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150032384",
+        "ACCIDENT_DATE": "29-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.371",
+        "TRAVELWAY_ID": "68731",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383657.8",
+        "GPS_LONGITUDE": "901421.5",
+        "ON_LOCATION_STREET": "CST S GRAND BLVD",
+        "AT_LOCATION_STREET": "CST DETONTY AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2707777777778,
+          38.6447222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150032400",
+        "ACCIDENT_DATE": "28-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.201",
+        "TRAVELWAY_ID": "80437",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "LAKE AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383841.0",
+        "GPS_LONGITUDE": "901614.8",
+        "ON_LOCATION_STREET": "CST LAKE AVE",
+        "AT_LOCATION_STREET": "CST LINDELL BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2751111111111,
+          38.5887222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150032430",
+        "ACCIDENT_DATE": "26-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.718",
+        "TRAVELWAY_ID": "79484",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "KINGSHIGHWAY BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383519.4",
+        "GPS_LONGITUDE": "901630.4",
+        "ON_LOCATION_STREET": "CST KINGSHIGHWAY BLVD",
+        "AT_LOCATION_STREET": "CST SUTHERLAND AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2403333333333,
+          38.5769444444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150032456",
+        "ACCIDENT_DATE": "26-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.724",
+        "TRAVELWAY_ID": "31332",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "COMPTON AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383437.0",
+        "GPS_LONGITUDE": "901425.2",
+        "ON_LOCATION_STREET": "CST COMPTON AVE",
+        "AT_LOCATION_STREET": "CST OSCEOLA ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2605555555556,
+          38.65975
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150032480",
+        "ACCIDENT_DATE": "22-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.198",
+        "TRAVELWAY_ID": "1013015",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "AUBERT AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383935.1",
+        "GPS_LONGITUDE": "901538.0",
+        "ON_LOCATION_STREET": "CST AUBERT AVE",
+        "AT_LOCATION_STREET": "CST PAGE BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2196944444444,
+          38.6671666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150032749",
+        "ACCIDENT_DATE": "21-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.476",
+        "TRAVELWAY_ID": "1051373",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "KOSSUTH AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384001.8",
+        "GPS_LONGITUDE": "901310.9",
+        "ON_LOCATION_STREET": "CST KOSSUTH AVE",
+        "AT_LOCATION_STREET": "CST PRAIRIE AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2625,
+          38.6398888888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150032928",
+        "ACCIDENT_DATE": "30-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.942",
+        "TRAVELWAY_ID": "61769",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383823.6",
+        "GPS_LONGITUDE": "901545.0",
+        "ON_LOCATION_STREET": "CST EUCLID AVE",
+        "AT_LOCATION_STREET": "CST WEST PINE BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2566944444444,
+          38.71025
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150033750",
+        "ACCIDENT_DATE": "14-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.304",
+        "TRAVELWAY_ID": "192271",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GOODFELLOW BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384236.9",
+        "GPS_LONGITUDE": "901524.1",
+        "ON_LOCATION_STREET": "CST GOODFELLOW BLVD",
+        "AT_LOCATION_STREET": "CST LENORA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2425277777778,
+          38.5946388888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150034180",
+        "ACCIDENT_DATE": "18-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.765",
+        "TRAVELWAY_ID": "68731",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383540.7",
+        "GPS_LONGITUDE": "901433.1",
+        "ON_LOCATION_STREET": "CST GRAND BLVD",
+        "AT_LOCATION_STREET": "CST CHEROKEE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2723333333333,
+          38.5830277777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150034270",
+        "ACCIDENT_DATE": "02-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.23",
+        "TRAVELWAY_ID": "56960",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "DELOR ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383458.9",
+        "GPS_LONGITUDE": "901620.4",
+        "ON_LOCATION_STREET": "CST DELOR ST",
+        "AT_LOCATION_STREET": "CST RIDGEWOOD AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1956666666667,
+          38.6323333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150034878",
+        "ACCIDENT_DATE": "02-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.577",
+        "TRAVELWAY_ID": "8792",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "TUCKER BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383756.4",
+        "GPS_LONGITUDE": "901144.4",
+        "ON_LOCATION_STREET": "CST TUCKER BLVD",
+        "AT_LOCATION_STREET": "CST CONVENTION PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2363333333333,
+          38.6698055555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150034925",
+        "ACCIDENT_DATE": "02-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.621",
+        "TRAVELWAY_ID": "6378",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "115",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "09",
+        "GPS_LATITUDE": "384011.3",
+        "GPS_LONGITUDE": "901410.8",
+        "ON_LOCATION_STREET": "MO 115",
+        "AT_LOCATION_STREET": "CST TAYLOR AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2578888888889,
+          38.6443333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150034959",
+        "ACCIDENT_DATE": "11-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0",
+        "TRAVELWAY_ID": "1007288",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MARYLAND AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383839.6",
+        "GPS_LONGITUDE": "901528.4",
+        "ON_LOCATION_STREET": "CST MARYLAND AVE",
+        "AT_LOCATION_STREET": "CST EUCLID AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4441666666667,
+          38.5966666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150037762",
+        "ACCIDENT_DATE": "07-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.06",
+        "TRAVELWAY_ID": "18700",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "S NEW BALLAS RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383548.0",
+        "GPS_LONGITUDE": "902639.0",
+        "ON_LOCATION_STREET": "CST BALLAS RD",
+        "AT_LOCATION_STREET": "CST WINSLOW LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2581388888889,
+          38.5883611111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150040090",
+        "ACCIDENT_DATE": "30-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "49.802",
+        "TRAVELWAY_ID": "6370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "30",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383518.1",
+        "GPS_LONGITUDE": "901529.3",
+        "ON_LOCATION_STREET": "CST GRAVOIS AVE",
+        "AT_LOCATION_STREET": "CST MERAMEC ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3006388888889,
+          38.6475833333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150040214",
+        "ACCIDENT_DATE": "29-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.014",
+        "TRAVELWAY_ID": "207051",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "LINDELL BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383851.3",
+        "GPS_LONGITUDE": "901802.3",
+        "ON_LOCATION_STREET": "CST LINDELL BLVD",
+        "AT_LOCATION_STREET": "CST SKINKER BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2420555555556,
+          38.6761666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150040281",
+        "ACCIDENT_DATE": "24-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.298",
+        "TRAVELWAY_ID": "62563",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "FARLIN AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384034.2",
+        "GPS_LONGITUDE": "901431.4",
+        "ON_LOCATION_STREET": "CST FARLIN AVE",
+        "AT_LOCATION_STREET": "CST MARCUS AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2591944444444,
+          38.5691944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150040282",
+        "ACCIDENT_DATE": "24-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.883",
+        "TRAVELWAY_ID": "19349",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "BATES ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383409.1",
+        "GPS_LONGITUDE": "901533.1",
+        "ON_LOCATION_STREET": "CST BATES ST",
+        "AT_LOCATION_STREET": "CST ULENA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2709722222222,
+          38.6673333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150040391",
+        "ACCIDENT_DATE": "21-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "10.966",
+        "TRAVELWAY_ID": "6157",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "180",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384002.4",
+        "GPS_LONGITUDE": "901615.5",
+        "ON_LOCATION_STREET": "CST DR MARTIN LUTHER KING DR",
+        "AT_LOCATION_STREET": "CST ARLINGTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2893611111111,
+          38.6702222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150040418",
+        "ACCIDENT_DATE": "24-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "9.424",
+        "TRAVELWAY_ID": "6131",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "D",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384012.8",
+        "GPS_LONGITUDE": "901721.7",
+        "ON_LOCATION_STREET": "CST PAGE BLVD",
+        "AT_LOCATION_STREET": "CST SKINKER BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3071666666667,
+          38.573
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150040533",
+        "ACCIDENT_DATE": "06-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.5",
+        "TRAVELWAY_ID": "57200",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "RIVER DES PERES BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383422.8",
+        "GPS_LONGITUDE": "901825.8",
+        "ON_LOCATION_STREET": "CST RIVER DES PERES",
+        "AT_LOCATION_STREET": "CST POINSIANA BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2797222222222,
+          38.6636388888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150040862",
+        "ACCIDENT_DATE": "07-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.394",
+        "TRAVELWAY_ID": "91222",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MONTCLAIR AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383949.1",
+        "GPS_LONGITUDE": "901647.0",
+        "ON_LOCATION_STREET": "CST MONTCLAIR AVE",
+        "AT_LOCATION_STREET": "CST ETZEL AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2579166666667,
+          38.6425555555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150041518",
+        "ACCIDENT_DATE": "09-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.357",
+        "TRAVELWAY_ID": "83167",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LINDELL BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383833.2",
+        "GPS_LONGITUDE": "901528.5",
+        "ON_LOCATION_STREET": "CST LINDELL BLVD",
+        "AT_LOCATION_STREET": "CST TAYLOR AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2857222222222,
+          38.5925833333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150041530",
+        "ACCIDENT_DATE": "10-Jun-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "8.759",
+        "TRAVELWAY_ID": "6143",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "366",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383533.3",
+        "GPS_LONGITUDE": "901708.6",
+        "ON_LOCATION_STREET": "CST CHIPPEWA ST",
+        "AT_LOCATION_STREET": "CST REGAL PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2843888888889,
+          38.5706666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150047496",
+        "ACCIDENT_DATE": "01-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.202",
+        "TRAVELWAY_ID": "123696",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "TYROLEAN AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383414.4",
+        "GPS_LONGITUDE": "901703.8",
+        "ON_LOCATION_STREET": "CST TYROLEAN AVE",
+        "AT_LOCATION_STREET": "ALY ALLEY DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2940277777778,
+          38.5643611111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150047538",
+        "ACCIDENT_DATE": "10-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "47.128",
+        "TRAVELWAY_ID": "6370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "30",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383351.7",
+        "GPS_LONGITUDE": "901738.5",
+        "ON_LOCATION_STREET": "CST GRAVOIS AVE",
+        "AT_LOCATION_STREET": "CST HAMPTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2456666666667,
+          38.5941666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150047944",
+        "ACCIDENT_DATE": "30-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.203",
+        "TRAVELWAY_ID": "101424",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "POTOMAC ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383539.0",
+        "GPS_LONGITUDE": "901444.4",
+        "ON_LOCATION_STREET": "CST POTOMAC ST",
+        "AT_LOCATION_STREET": "CST GILES AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5436666666667,
+          38.7593888888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150049780",
+        "ACCIDENT_DATE": "22-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.246",
+        "TRAVELWAY_ID": "64328",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "FLORINE BLVD",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384533.8",
+        "GPS_LONGITUDE": "903237.2",
+        "ON_LOCATION_STREET": "CST FLORINE BLVD",
+        "AT_LOCATION_STREET": "CST OLD MO 94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4905555555556,
+          38.7736388888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150049877",
+        "ACCIDENT_DATE": "19-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.322",
+        "TRAVELWAY_ID": "6226",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "70",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384625.1",
+        "GPS_LONGITUDE": "902926.0",
+        "ON_LOCATION_STREET": "CST 5TH ST",
+        "AT_LOCATION_STREET": "CST BOONES LICK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.50525,
+          38.5678055555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150050263",
+        "ACCIDENT_DATE": "30-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.712",
+        "TRAVELWAY_ID": "94926",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "BIG BEND RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383404.1",
+        "GPS_LONGITUDE": "903018.9",
+        "ON_LOCATION_STREET": "CST BIG BEND RD",
+        "AT_LOCATION_STREET": "CST HOLGATE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1616388888889,
+          38.2140277777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150052077",
+        "ACCIDENT_DATE": "10-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0",
+        "TRAVELWAY_ID": "1020941",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "CHURCH ST",
+        "MODOT_COUNTY_NM": "FRANKLIN",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "381250.5",
+        "GPS_LONGITUDE": "910941.9",
+        "ON_LOCATION_STREET": "CST CHURCH ST",
+        "AT_LOCATION_STREET": "CST SPRINGFIELD ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2520555555556,
+          38.5524444444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150053777",
+        "ACCIDENT_DATE": "16-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.241",
+        "TRAVELWAY_ID": "147434",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BROADWAY ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383308.8",
+        "GPS_LONGITUDE": "901507.4",
+        "ON_LOCATION_STREET": "CST BROADWAY ST",
+        "AT_LOCATION_STREET": "CST LOUGHBOROUGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2731666666667,
+          38.5922777777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150053812",
+        "ACCIDENT_DATE": "07-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.429",
+        "TRAVELWAY_ID": "79484",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "KINGSHIGHWAY BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383532.2",
+        "GPS_LONGITUDE": "901623.4",
+        "ON_LOCATION_STREET": "CST KINGSHIGHWAY BLVD",
+        "AT_LOCATION_STREET": "CST MARDEL AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2382777777778,
+          38.5983055555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150053892",
+        "ACCIDENT_DATE": "12-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.651",
+        "TRAVELWAY_ID": "131370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WYOMING ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383553.9",
+        "GPS_LONGITUDE": "901417.8",
+        "ON_LOCATION_STREET": "ALY WYOMING ST",
+        "AT_LOCATION_STREET": "CST LOUISANA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2366944444444,
+          38.6260277777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150054129",
+        "ACCIDENT_DATE": "21-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.668",
+        "TRAVELWAY_ID": "68731",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383733.7",
+        "GPS_LONGITUDE": "901412.1",
+        "ON_LOCATION_STREET": "CST GRAND BLVD",
+        "AT_LOCATION_STREET": "CST CHOUTEAU AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28475,
+          38.6642222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150054500",
+        "ACCIDENT_DATE": "14-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.866",
+        "TRAVELWAY_ID": "192271",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GOODFELLOW BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383951.2",
+        "GPS_LONGITUDE": "901705.1",
+        "ON_LOCATION_STREET": "CST GOODFELLOW BLVD",
+        "AT_LOCATION_STREET": "CST ETZEL AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2853333333333,
+          38.6460833333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150054560",
+        "ACCIDENT_DATE": "31-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.014",
+        "TRAVELWAY_ID": "207051",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "LINDELL BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383845.9",
+        "GPS_LONGITUDE": "901707.2",
+        "ON_LOCATION_STREET": "CST LINDELL BLVD",
+        "AT_LOCATION_STREET": "CST SKINKER BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2375,
+          38.6233333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150054615",
+        "ACCIDENT_DATE": "29-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.298",
+        "TRAVELWAY_ID": "109707",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "RUTGER ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383724.0",
+        "GPS_LONGITUDE": "901415.0",
+        "ON_LOCATION_STREET": "CST RUTGER ST",
+        "AT_LOCATION_STREET": "CST GRAND BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1993888888889,
+          38.6243611111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150054631",
+        "ACCIDENT_DATE": "25-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.153",
+        "TRAVELWAY_ID": "115615",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "SPRUCE ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383727.7",
+        "GPS_LONGITUDE": "901157.8",
+        "ON_LOCATION_STREET": "CST SPRUCE ST",
+        "AT_LOCATION_STREET": "CST TUCKER BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2743055555556,
+          38.5914722222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150054721",
+        "ACCIDENT_DATE": "24-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "9.447",
+        "TRAVELWAY_ID": "6143",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "366",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383529.3",
+        "GPS_LONGITUDE": "901627.5",
+        "ON_LOCATION_STREET": "CST CHIPPEWA BLVD",
+        "AT_LOCATION_STREET": "CST KINGSHIGHWAY BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2731111111111,
+          38.6132222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150054961",
+        "ACCIDENT_DATE": "17-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.367",
+        "TRAVELWAY_ID": "87026",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "MARCONI ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383647.6",
+        "GPS_LONGITUDE": "901623.2",
+        "ON_LOCATION_STREET": "CST MARCONI AVE",
+        "AT_LOCATION_STREET": "CST SOUTHWEST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.54975,
+          38.7725833333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150056861",
+        "ACCIDENT_DATE": "28-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.419",
+        "TRAVELWAY_ID": "156100",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "COUNTRY CLUB RD",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384621.3",
+        "GPS_LONGITUDE": "903259.1",
+        "ON_LOCATION_STREET": "CRD COUNTRY CLUB RD",
+        "AT_LOCATION_STREET": "CST MUEGGE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2634166666667,
+          38.6391944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150060087",
+        "ACCIDENT_DATE": "29-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.126",
+        "TRAVELWAY_ID": "61769",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383821.1",
+        "GPS_LONGITUDE": "901548.3",
+        "ON_LOCATION_STREET": "CST EUCLID AVE",
+        "AT_LOCATION_STREET": "CST FOREST PARK AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2621111111111,
+          38.6403055555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150060319",
+        "ACCIDENT_DATE": "25-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.189",
+        "TRAVELWAY_ID": "80232",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LACLEDE AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383825.1",
+        "GPS_LONGITUDE": "901543.6",
+        "ON_LOCATION_STREET": "CST LACLEDE AVE",
+        "AT_LOCATION_STREET": "CST EUCLID AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2528888888889,
+          38.6014444444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150060328",
+        "ACCIDENT_DATE": "23-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.164",
+        "TRAVELWAY_ID": "108628",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "ROGER PL",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383605.2",
+        "GPS_LONGITUDE": "901510.4",
+        "ON_LOCATION_STREET": "CST ROGER PL",
+        "AT_LOCATION_STREET": "CST JUNIATA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2421388888889,
+          38.5938055555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150060398",
+        "ACCIDENT_DATE": "26-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.467",
+        "TRAVELWAY_ID": "101424",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "POTOMAC ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383537.7",
+        "GPS_LONGITUDE": "901431.7",
+        "ON_LOCATION_STREET": "CST POTOMAC ST",
+        "AT_LOCATION_STREET": "CST GRAVOIS AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3463888888889,
+          38.7305555555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150060614",
+        "ACCIDENT_DATE": "16-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.544",
+        "TRAVELWAY_ID": "6378",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "115",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384350.0",
+        "GPS_LONGITUDE": "902047.0",
+        "ON_LOCATION_STREET": "MO 115",
+        "AT_LOCATION_STREET": "CST BROWN RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1939722222222,
+          38.6287222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150060781",
+        "ACCIDENT_DATE": "13-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.38",
+        "TRAVELWAY_ID": "1036775",
+        "DIRECTION": "N",
+        "TRAVELWAY_NAME": "9TH ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383743.4",
+        "GPS_LONGITUDE": "901138.3",
+        "ON_LOCATION_STREET": "CST 9TH ST",
+        "AT_LOCATION_STREET": "CST OLIVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2325,
+          38.5946944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150061151",
+        "ACCIDENT_DATE": "24-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.719",
+        "TRAVELWAY_ID": "92620",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "NEBRASKA AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383540.9",
+        "GPS_LONGITUDE": "901357.0",
+        "ON_LOCATION_STREET": "CST NEBRASKA AVE",
+        "AT_LOCATION_STREET": "ALY ALLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2639166666667,
+          38.7008333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150061543",
+        "ACCIDENT_DATE": "14-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.063",
+        "TRAVELWAY_ID": "192271",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GOODFELLOW BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384203.0",
+        "GPS_LONGITUDE": "901550.1",
+        "ON_LOCATION_STREET": "CST GOODFELLOW BLVD",
+        "AT_LOCATION_STREET": "CST SAOLOMA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2827222222222,
+          38.5598611111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150061662",
+        "ACCIDENT_DATE": "06-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.726",
+        "TRAVELWAY_ID": "67497",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "GERMANIA AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383335.5",
+        "GPS_LONGITUDE": "901657.8",
+        "ON_LOCATION_STREET": "CST GERMAINA ST",
+        "AT_LOCATION_STREET": "CST MORGANFORD RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2649166666667,
+          38.6258055555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150061707",
+        "ACCIDENT_DATE": "07-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "117.066",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383732.9",
+        "GPS_LONGITUDE": "901553.7",
+        "ON_LOCATION_STREET": "CST MANCHESTER AVE",
+        "AT_LOCATION_STREET": "PP 5001 MANCHESTER AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2000833333333,
+          38.6077777777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150061876",
+        "ACCIDENT_DATE": "01-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.387",
+        "TRAVELWAY_ID": "1058453",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BROADWAY",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383628.0",
+        "GPS_LONGITUDE": "901200.3",
+        "ON_LOCATION_STREET": "CST BROADWAY AVE",
+        "AT_LOCATION_STREET": "CST GEYER ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4822222222222,
+          38.7936111111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150062902",
+        "ACCIDENT_DATE": "16-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.778",
+        "TRAVELWAY_ID": "106069",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "RANDOLPH ST",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384737.0",
+        "GPS_LONGITUDE": "902856",
+        "ON_LOCATION_STREET": "CST RANDOLPH ST",
+        "AT_LOCATION_STREET": "CST VINE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7775,
+          38.8036944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150062989",
+        "ACCIDENT_DATE": "16-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.701",
+        "TRAVELWAY_ID": "255770",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "70",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384813.3",
+        "GPS_LONGITUDE": "904639.0",
+        "ON_LOCATION_STREET": "SOR 70",
+        "AT_LOCATION_STREET": "CST MEDICAL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4055,
+          38.7411388888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150063513",
+        "ACCIDENT_DATE": "13-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.074",
+        "TRAVELWAY_ID": "6157",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "180",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384428.1",
+        "GPS_LONGITUDE": "902419.8",
+        "ON_LOCATION_STREET": "MO 180",
+        "AT_LOCATION_STREET": "PP PARKING LOT AT 11444 MO 180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2408055555556,
+          38.6805833333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150067858",
+        "ACCIDENT_DATE": "09-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.209",
+        "TRAVELWAY_ID": "16416",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "ANDERSON AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384050.1",
+        "GPS_LONGITUDE": "901426.9",
+        "ON_LOCATION_STREET": "CST ANDERSON AVE",
+        "AT_LOCATION_STREET": "CST SHREVE AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3151666666667,
+          38.5875555555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150067937",
+        "ACCIDENT_DATE": "10-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.928",
+        "TRAVELWAY_ID": "127729",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WEIL AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383515.2",
+        "GPS_LONGITUDE": "901854.6",
+        "ON_LOCATION_STREET": "CST WEIL AVE",
+        "AT_LOCATION_STREET": "RP 279478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2584166666667,
+          38.6410833333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150069786",
+        "ACCIDENT_DATE": "13-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.877",
+        "TRAVELWAY_ID": "120520",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "TAYLOR AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383827.9",
+        "GPS_LONGITUDE": "901530.3",
+        "ON_LOCATION_STREET": "CST TAYLOR AVE",
+        "AT_LOCATION_STREET": "CST WEST PINE BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2425277777778,
+          38.5946388888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150069920",
+        "ACCIDENT_DATE": "14-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.884",
+        "TRAVELWAY_ID": "68731",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383540.7",
+        "GPS_LONGITUDE": "901433.1",
+        "ON_LOCATION_STREET": "CST GRAND BLVD",
+        "AT_LOCATION_STREET": "CST POTOMAC ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2188888888889,
+          38.6268333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150069956",
+        "ACCIDENT_DATE": "09-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.269",
+        "TRAVELWAY_ID": "76946",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "JEFFERSON AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383736.6",
+        "GPS_LONGITUDE": "901308.0",
+        "ON_LOCATION_STREET": "CST JEFFERSON AVE",
+        "AT_LOCATION_STREET": "IS 64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2076944444444,
+          38.6369722222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150070087",
+        "ACCIDENT_DATE": "12-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "120.226",
+        "TRAVELWAY_ID": "6368",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "100",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383813.1",
+        "GPS_LONGITUDE": "901227.7",
+        "ON_LOCATION_STREET": "CST CHOUTEAU AVE",
+        "AT_LOCATION_STREET": "CST TRUMAN PKWY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2634166666667,
+          38.6516111111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150070201",
+        "ACCIDENT_DATE": "27-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "5.619",
+        "TRAVELWAY_ID": "56929",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "DELMAR BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383905.8",
+        "GPS_LONGITUDE": "901548.3",
+        "ON_LOCATION_STREET": "CST DELMAR BLVD",
+        "AT_LOCATION_STREET": "CST KINGSHIGHWAY BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3011111111111,
+          38.6515833333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150070585",
+        "ACCIDENT_DATE": "06-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.207",
+        "TRAVELWAY_ID": "88761",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MC PHERSON AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383905.7",
+        "GPS_LONGITUDE": "901804.0",
+        "ON_LOCATION_STREET": "CST MCPHERSON AVE",
+        "AT_LOCATION_STREET": "CST SKINKER BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2361944444445,
+          38.5963333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150071105",
+        "ACCIDENT_DATE": "22-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.356",
+        "TRAVELWAY_ID": "31332",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "COMPTON AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383546.8",
+        "GPS_LONGITUDE": "901410.3",
+        "ON_LOCATION_STREET": "CST COMPTON AVE",
+        "AT_LOCATION_STREET": "CST GRAVOIS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2522777777778,
+          38.5716111111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150071988",
+        "ACCIDENT_DATE": "17-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "6.589",
+        "TRAVELWAY_ID": "68731",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GRAND BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383417.8",
+        "GPS_LONGITUDE": "901508.2",
+        "ON_LOCATION_STREET": "CST GRAND BLVD",
+        "AT_LOCATION_STREET": "CST WALSH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2803611111111,
+          38.6456111111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150071996",
+        "ACCIDENT_DATE": "18-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.003",
+        "TRAVELWAY_ID": "55077",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "CRICKET DR",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383844.2",
+        "GPS_LONGITUDE": "901649.3",
+        "ON_LOCATION_STREET": "CST CRICKET DR",
+        "AT_LOCATION_STREET": "CST LINDELL BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1901666666667,
+          38.6155555555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150077067",
+        "ACCIDENT_DATE": "19-Nov-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.25",
+        "TRAVELWAY_ID": "1007738",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "2ND ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383656.0",
+        "GPS_LONGITUDE": "901124.6",
+        "ON_LOCATION_STREET": "CST 2ND ST",
+        "AT_LOCATION_STREET": "CST CHOUTEAU AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2988333333333,
+          38.5612777777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150077071",
+        "ACCIDENT_DATE": "19-Nov-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "47.107",
+        "TRAVELWAY_ID": "6370",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "30",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383340.6",
+        "GPS_LONGITUDE": "901755.8",
+        "ON_LOCATION_STREET": "MO 30",
+        "AT_LOCATION_STREET": "CST RIVER DES PERES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25525,
+          38.571
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150077144",
+        "ACCIDENT_DATE": "20-Nov-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.106",
+        "TRAVELWAY_ID": "91873",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MOUNT PLEASANT ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383415.6",
+        "GPS_LONGITUDE": "901518.9",
+        "ON_LOCATION_STREET": "ALY MOUNT PLEASANT ST",
+        "AT_LOCATION_STREET": "CST COMPTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2803611111111,
+          38.6456111111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150077270",
+        "ACCIDENT_DATE": "30-Nov-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.124",
+        "TRAVELWAY_ID": "83167",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LINDELL BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383844.2",
+        "GPS_LONGITUDE": "901649.3",
+        "ON_LOCATION_STREET": "CST LINDELL BLVD",
+        "AT_LOCATION_STREET": "CST DE BALIVIERE AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2968333333333,
+          38.6512222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150077751",
+        "ACCIDENT_DATE": "12-Nov-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.191",
+        "TRAVELWAY_ID": "88762",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MC PHERSON AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383904.4",
+        "GPS_LONGITUDE": "901748.6",
+        "ON_LOCATION_STREET": "CST MC PHERSON AVE",
+        "AT_LOCATION_STREET": "CST SKINKER BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.256,
+          38.61775
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150078173",
+        "ACCIDENT_DATE": "09-Nov-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.111",
+        "TRAVELWAY_ID": "122666",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "TOWER GROVE AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383703.9",
+        "GPS_LONGITUDE": "901521.6",
+        "ON_LOCATION_STREET": "CST TOWER GROVE AVE",
+        "AT_LOCATION_STREET": "CST DE TONTY ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2016388888889,
+          38.6116666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150084471",
+        "ACCIDENT_DATE": "12-Dec-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0",
+        "TRAVELWAY_ID": "138811",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "9TH ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383642.0",
+        "GPS_LONGITUDE": "901205.9",
+        "ON_LOCATION_STREET": "CST 9TH ST",
+        "AT_LOCATION_STREET": "CST JULIA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2670277777778,
+          38.6437777777778
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150084712",
+        "ACCIDENT_DATE": "11-Dec-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.033",
+        "TRAVELWAY_ID": "128064",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "WEST PINE BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383837.6",
+        "GPS_LONGITUDE": "901601.3",
+        "ON_LOCATION_STREET": "CST WEST PINE BLVD",
+        "AT_LOCATION_STREET": "CST GRAND DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2614444444445,
+          38.6446944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150084956",
+        "ACCIDENT_DATE": "12-Dec-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.756",
+        "TRAVELWAY_ID": "61769",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "EUCLID AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383840.9",
+        "GPS_LONGITUDE": "901541.2",
+        "ON_LOCATION_STREET": "CST EUCLID AVE",
+        "AT_LOCATION_STREET": "CST MARYLAND AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2270555555556,
+          38.6353611111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150085031",
+        "ACCIDENT_DATE": "07-Dec-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.065",
+        "TRAVELWAY_ID": "96143",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "OLIVE ST",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383807.3",
+        "GPS_LONGITUDE": "901337.4",
+        "ON_LOCATION_STREET": "CST OLIVE ST",
+        "AT_LOCATION_STREET": "CST COMPTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2566111111111,
+          38.6506666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150085471",
+        "ACCIDENT_DATE": "02-Dec-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "5.941",
+        "TRAVELWAY_ID": "56929",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "DELMAR BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS CITY",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383902.4",
+        "GPS_LONGITUDE": "901523.8",
+        "ON_LOCATION_STREET": "CST DELMAR BLVD",
+        "AT_LOCATION_STREET": "CST WALTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.492,
+          38.7654444444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "0150087310",
+        "ACCIDENT_DATE": "10-Dec-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.213",
+        "TRAVELWAY_ID": "108978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LOMBARD ST",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384555.6",
+        "GPS_LONGITUDE": "902931.2",
+        "ON_LOCATION_STREET": "CST LOMBARD ST",
+        "AT_LOCATION_STREET": "CST MAIN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4386666666667,
+          38.6328888888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150000428",
+        "ACCIDENT_DATE": "06-Jan-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "12.25",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383758.4",
+        "GPS_LONGITUDE": "902619.2",
+        "ON_LOCATION_STREET": "CST CLAYTON RD",
+        "AT_LOCATION_STREET": "CST CLAYTON FOREST CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4158611111111,
+          38.5971944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150003837",
+        "ACCIDENT_DATE": "28-Jan-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "2.67",
+        "TRAVELWAY_ID": "67534",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GEYER RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383549.9",
+        "GPS_LONGITUDE": "902457.1",
+        "ON_LOCATION_STREET": "CST GEYER RD",
+        "AT_LOCATION_STREET": "CST WILSON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3326388888889,
+          38.5914722222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150006460",
+        "ACCIDENT_DATE": "12-Mar-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.269",
+        "TRAVELWAY_ID": "92154",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MURDOCH AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383529.3",
+        "GPS_LONGITUDE": "901957.5",
+        "ON_LOCATION_STREET": "CRD MURDOCH AVE",
+        "AT_LOCATION_STREET": "CST WILSHUSEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5653611111111,
+          38.6548888888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150008496",
+        "ACCIDENT_DATE": "01-Apr-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.209",
+        "TRAVELWAY_ID": "28649",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "CHESTERFIELD CENTER DR",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383917.6",
+        "GPS_LONGITUDE": "903355.3",
+        "ON_LOCATION_STREET": "CST CHESTERFIELD CENTER DR",
+        "AT_LOCATION_STREET": "CST CHESTERFIELD MALL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5470555555556,
+          38.6271388888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150009277",
+        "ACCIDENT_DATE": "11-Apr-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.067",
+        "TRAVELWAY_ID": "86427",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "MANOR RIDGE DR",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383737.7",
+        "GPS_LONGITUDE": "903249.4",
+        "ON_LOCATION_STREET": "CST MANOR RIDGE DR",
+        "AT_LOCATION_STREET": "CST MANOR CREEK DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4655833333333,
+          38.6261944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150011281",
+        "ACCIDENT_DATE": "03-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "10.659",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383734.3",
+        "GPS_LONGITUDE": "902756.1",
+        "ON_LOCATION_STREET": "CST CLAYTON RD",
+        "AT_LOCATION_STREET": "CST ROCLARE LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3265,
+          38.6008333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150011385",
+        "ACCIDENT_DATE": "28-Apr-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.436",
+        "TRAVELWAY_ID": "20887",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "BIG BEND BLVD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383603.0",
+        "GPS_LONGITUDE": "901935.4",
+        "ON_LOCATION_STREET": "CST BIG BEND BLVD",
+        "AT_LOCATION_STREET": "CST SHREWSBURY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5674444444444,
+          38.6083888888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150012228",
+        "ACCIDENT_DATE": "09-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.516",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383630.2",
+        "GPS_LONGITUDE": "903402.8",
+        "ON_LOCATION_STREET": "CST CLAYTON RD",
+        "AT_LOCATION_STREET": "CST CLAYHEATH CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5433333333333,
+          38.5928888888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150012518",
+        "ACCIDENT_DATE": "08-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.092",
+        "TRAVELWAY_ID": "985405",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "BALLPARK DR",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383534.4",
+        "GPS_LONGITUDE": "903236.0",
+        "ON_LOCATION_STREET": "CST BALLPARK DR",
+        "AT_LOCATION_STREET": "MO 100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2331666666667,
+          38.75025
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150012749",
+        "ACCIDENT_DATE": "08-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.622",
+        "TRAVELWAY_ID": "27701",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CHAMBERS RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384500.9",
+        "GPS_LONGITUDE": "901359.4",
+        "ON_LOCATION_STREET": "CST CHAMBERS RD",
+        "AT_LOCATION_STREET": "CST ASHBROOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5623888888889,
+          38.6086666666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150013984",
+        "ACCIDENT_DATE": "23-May-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "4",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.79",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383631.2",
+        "GPS_LONGITUDE": "903344.6",
+        "ON_LOCATION_STREET": "CST CLAYTON ROAD",
+        "AT_LOCATION_STREET": "CST CLAYMONT DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.55175,
+          38.5928611111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150019288",
+        "ACCIDENT_DATE": "14-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.414",
+        "TRAVELWAY_ID": "117991",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "STEAMBOAT LN",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383534.3",
+        "GPS_LONGITUDE": "903306.3",
+        "ON_LOCATION_STREET": "CST STEAMBOAT LN",
+        "AT_LOCATION_STREET": "CST MANCHESTER RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4157777777778,
+          38.5769166666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150020468",
+        "ACCIDENT_DATE": "24-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "5",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.083",
+        "TRAVELWAY_ID": "67534",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GEYER RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383436.9",
+        "GPS_LONGITUDE": "902456.8",
+        "ON_LOCATION_STREET": "CST GEYER RD",
+        "AT_LOCATION_STREET": "PP 417 GEYER RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3208055555556,
+          38.5923055555556
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150021059",
+        "ACCIDENT_DATE": "24-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.578",
+        "TRAVELWAY_ID": "81416",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LANSDOWNE AVE",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "PROPERTY DAMAGE ONLY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383532.3",
+        "GPS_LONGITUDE": "901914.9",
+        "ON_LOCATION_STREET": "CST LANSDOWNE AVE",
+        "AT_LOCATION_STREET": "CST MURDOCH CUT OFF RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5677777777778,
+          38.6417222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150021155",
+        "ACCIDENT_DATE": "21-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "15.608",
+        "TRAVELWAY_ID": "6142",
+        "DIRECTION": "W",
+        "TRAVELWAY_NAME": "340",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383830.2",
+        "GPS_LONGITUDE": "903404.0",
+        "ON_LOCATION_STREET": "MO 340",
+        "AT_LOCATION_STREET": "PP CLARKSON SQUARE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4821388888889,
+          38.62725
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150021471",
+        "ACCIDENT_DATE": "30-Jul-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "9.679",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383738.1",
+        "GPS_LONGITUDE": "902855.7",
+        "ON_LOCATION_STREET": "CST CLAYTON RD",
+        "AT_LOCATION_STREET": "CST MASON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5198055555555,
+          38.6652222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150023897",
+        "ACCIDENT_DATE": "23-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.886",
+        "TRAVELWAY_ID": "80312",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LADUE RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383954.8",
+        "GPS_LONGITUDE": "903111.3",
+        "ON_LOCATION_STREET": "CST LADUE RD",
+        "AT_LOCATION_STREET": "CST GREEN TRAILS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5435,
+          38.5788611111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150025628",
+        "ACCIDENT_DATE": "10-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "1.047",
+        "TRAVELWAY_ID": "107557",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "RIES RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383443.9",
+        "GPS_LONGITUDE": "903236.6",
+        "ON_LOCATION_STREET": "CST RIES RD",
+        "AT_LOCATION_STREET": "CST MADRINA COURT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5950277777778,
+          38.6684166666667
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150027386",
+        "ACCIDENT_DATE": "24-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.366",
+        "TRAVELWAY_ID": "28637",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CHESTERFIELD AIRPORT RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "384006.3",
+        "GPS_LONGITUDE": "903542.1",
+        "ON_LOCATION_STREET": "CST CHESTERFIELD AIRPORT RD",
+        "AT_LOCATION_STREET": "CST FIRST COMMUNITY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5198611111111,
+          38.6652222222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150027592",
+        "ACCIDENT_DATE": "23-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "2",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "0.878",
+        "TRAVELWAY_ID": "80312",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "LADUE RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "DISABLING INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383954.8",
+        "GPS_LONGITUDE": "903111.5",
+        "ON_LOCATION_STREET": "CST LADUE RD",
+        "AT_LOCATION_STREET": "CST SO GREEN TRAILS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5788611111111,
+          38.6048611111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150027821",
+        "ACCIDENT_DATE": "27-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.829",
+        "TRAVELWAY_ID": "29978",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "CLAYTON RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383617.5",
+        "GPS_LONGITUDE": "903443.9",
+        "ON_LOCATION_STREET": "CST CLAYTON RD",
+        "AT_LOCATION_STREET": "CST MEADOW BRIDGE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4062777777778,
+          38.5843333333333
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150030589",
+        "ACCIDENT_DATE": "17-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "168.19",
+        "TRAVELWAY_ID": "11",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "61",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383503.6",
+        "GPS_LONGITUDE": "902422.6",
+        "ON_LOCATION_STREET": "US 61",
+        "AT_LOCATION_STREET": "CST ADAMS AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4156388888889,
+          38.5769722222222
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "2150032757",
+        "ACCIDENT_DATE": "29-Oct-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "4.079",
+        "TRAVELWAY_ID": "67534",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "GEYER RD",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383437.1",
+        "GPS_LONGITUDE": "902456.3",
+        "ON_LOCATION_STREET": "CST GEYER",
+        "AT_LOCATION_STREET": "PVT COLONY WOODS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4918611111111,
+          38.8528888888889
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3150008307",
+        "ACCIDENT_DATE": "06-Apr-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": " ",
+        "HP_PERSON_INVL_CD": "05",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "7.32",
+        "TRAVELWAY_ID": "6341",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "B",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "385110.4",
+        "GPS_LONGITUDE": "902930.7",
+        "ON_LOCATION_STREET": "RT B",
+        "AT_LOCATION_STREET": "CRD WASHEON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2287777777778,
+          38.8541111111111
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3150022677",
+        "ACCIDENT_DATE": "08-Aug-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "3",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "3.278",
+        "TRAVELWAY_ID": "15",
+        "DIRECTION": "S",
+        "TRAVELWAY_NAME": "67",
+        "MODOT_COUNTY_NM": "ST. CHARLES",
+        "SEVERITY": "MINOR INJURY",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "385114.8",
+        "GPS_LONGITUDE": "901343.6",
+        "ON_LOCATION_STREET": "US 67",
+        "AT_LOCATION_STREET": "CST RED SCHOOL RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4756111111111,
+          38.5411944444444
+        ]
+      },
+      "properties": {
+        "HP_ACC_IMAGE_NO": "3150026763",
+        "ACCIDENT_DATE": "08-Sep-15",
+        "LONG_SHORT_FORM": "L",
+        "PRIMARY_IND": "Y",
+        "PERSONAL_INJ_LEVEL": "1",
+        "HP_PERSON_INVL_CD": "04",
+        "VEHICLE_BODY_TYPE": "13",
+        "Log": "273.437",
+        "TRAVELWAY_ID": "9",
+        "DIRECTION": "E",
+        "TRAVELWAY_NAME": "44",
+        "MODOT_COUNTY_NM": "ST. LOUIS",
+        "SEVERITY": "FATAL",
+        "MODOT_DISTRICT_ABBR": "SL",
+        "ACCIDENT_TYPE": "02",
+        "GPS_LATITUDE": "383228.3",
+        "GPS_LONGITUDE": "902832.2",
+        "ON_LOCATION_STREET": "IS 44",
+        "AT_LOCATION_STREET": "ERM EAST IS 44 MILE 273.8"
+      }
+    }
+  ]
+}
